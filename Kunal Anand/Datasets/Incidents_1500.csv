@@ -1,0 +1,1501 @@
+Incident_ID,Incident_Date,Category,Severity,Impact,Status,Escalated,Location_ID
+INC00001,2026-04-08,Web Attack,Medium,Low,Open,No,LOC0057
+INC00002,2023-01-18,Malware,Low,Significant,Investigating,Yes,LOC0080
+INC00003,2023-08-11,Ransomware,Medium,Significant,Resolved,No,LOC0086
+INC00004,2023-10-21,Web Attack,Critical,Moderate,Investigating,Yes,LOC0096
+INC00005,2023-12-23,Unauthorized Access,Low,Significant,Resolved,No,LOC0040
+INC00006,2023-06-18,Malware,Medium,Moderate,Contained,No,LOC0091
+INC00007,2023-01-23,DDoS,Critical,Moderate,Investigating,No,LOC0012
+INC00008,2025-05-15,Web Attack,Low,Low,Resolved,No,LOC0038
+INC00009,2026-05-22,DDoS,High,Moderate,Contained,No,LOC0027
+INC00010,2023-06-05,Unauthorized Access,Medium,Low,Investigating,Yes,LOC0093
+INC00011,2024-01-14,Unauthorized Access,Critical,Low,Resolved,No,LOC0061
+INC00012,2024-10-08,Data Breach,High,Low,Resolved,Yes,LOC0037
+INC00013,2026-03-30,Phishing,Critical,Severe,Resolved,No,LOC0016
+INC00014,2025-06-05,Insider Threat,Medium,Moderate,Open,No,LOC0079
+INC00015,2025-09-05,Web Attack,High,Moderate,Investigating,No,LOC0066
+INC00016,2025-01-12,Phishing,High,Moderate,Resolved,No,LOC0086
+INC00017,2024-06-16,Insider Threat,Medium,Severe,Investigating,No,LOC0044
+INC00018,2025-10-23,Insider Threat,Medium,Significant,Investigating,Yes,LOC0015
+INC00019,2023-02-02,Data Breach,Low,Severe,Resolved,Yes,LOC0034
+INC00020,2025-07-02,Ransomware,Critical,Moderate,Investigating,No,LOC0063
+INC00021,2023-04-18,DDoS,High,Low,Open,Yes,LOC0025
+INC00022,2025-08-01,Insider Threat,High,Significant,Open,Yes,LOC0008
+INC00023,2025-11-20,Phishing,High,Moderate,Contained,No,LOC0083
+INC00024,2023-06-17,Insider Threat,High,Significant,Resolved,No,LOC0054
+INC00025,2024-07-08,Web Attack,Medium,Severe,Resolved,No,LOC0040
+INC00026,2023-06-08,Data Breach,Medium,Moderate,Open,No,LOC0056
+INC00027,2024-12-25,Ransomware,High,Severe,Investigating,No,LOC0074
+INC00028,2026-03-30,Unauthorized Access,Medium,Significant,Contained,Yes,LOC0001
+INC00029,2023-04-14,Malware,Critical,Moderate,Contained,No,LOC0045
+INC00030,2024-05-22,Web Attack,High,Moderate,Contained,No,LOC0026
+INC00031,2026-05-27,Ransomware,Medium,Low,Resolved,No,LOC0010
+INC00032,2024-01-20,Malware,High,Significant,Resolved,No,LOC0004
+INC00033,2023-06-18,Insider Threat,Low,Low,Contained,No,LOC0045
+INC00034,2024-09-15,Data Breach,Critical,Moderate,Resolved,Yes,LOC0055
+INC00035,2024-10-11,Unauthorized Access,Critical,Significant,Open,No,LOC0051
+INC00036,2025-04-26,Malware,Critical,Low,Resolved,Yes,LOC0079
+INC00037,2024-02-05,Insider Threat,Medium,Low,Contained,No,LOC0046
+INC00038,2026-05-05,Data Breach,Low,Significant,Contained,Yes,LOC0059
+INC00039,2024-10-27,Insider Threat,Medium,Low,Resolved,Yes,LOC0082
+INC00040,2024-01-01,Insider Threat,Low,Moderate,Contained,No,LOC0066
+INC00041,2026-03-26,Phishing,Low,Moderate,Contained,No,LOC0092
+INC00042,2024-09-29,Phishing,Low,Moderate,Investigating,No,LOC0023
+INC00043,2023-02-01,Web Attack,Critical,Moderate,Resolved,Yes,LOC0079
+INC00044,2025-02-01,Unauthorized Access,Low,Significant,Resolved,No,LOC0070
+INC00045,2024-12-09,DDoS,Low,Severe,Investigating,Yes,LOC0059
+INC00046,2023-07-09,Ransomware,Critical,Low,Resolved,Yes,LOC0001
+INC00047,2025-03-20,Data Breach,High,Severe,Resolved,No,LOC0055
+INC00048,2025-12-09,Insider Threat,High,Significant,Contained,Yes,LOC0086
+INC00049,2023-05-16,Malware,High,Significant,Open,No,LOC0065
+INC00050,2025-07-12,Unauthorized Access,Critical,Significant,Contained,Yes,LOC0001
+INC00051,2023-06-29,Web Attack,High,Significant,Open,Yes,LOC0029
+INC00052,2024-06-19,Ransomware,High,Significant,Open,No,LOC0057
+INC00053,2023-01-09,Ransomware,High,Moderate,Contained,Yes,LOC0082
+INC00054,2026-05-18,Web Attack,Medium,Significant,Open,No,LOC0045
+INC00055,2023-07-31,Malware,Medium,Moderate,Investigating,No,LOC0086
+INC00056,2025-01-31,DDoS,Medium,Low,Resolved,Yes,LOC0080
+INC00057,2023-08-20,DDoS,Low,Significant,Investigating,No,LOC0027
+INC00058,2026-04-06,Insider Threat,High,Low,Resolved,Yes,LOC0020
+INC00059,2025-07-31,Phishing,Medium,Moderate,Resolved,No,LOC0091
+INC00060,2024-07-05,DDoS,Low,Low,Resolved,Yes,LOC0059
+INC00061,2024-08-19,Phishing,Medium,Moderate,Resolved,No,LOC0085
+INC00062,2025-03-21,Insider Threat,Critical,Significant,Resolved,No,LOC0093
+INC00063,2025-09-29,Data Breach,Medium,Significant,Investigating,No,LOC0043
+INC00064,2025-12-17,DDoS,High,Moderate,Resolved,No,LOC0005
+INC00065,2023-01-23,DDoS,Critical,Low,Investigating,No,LOC0091
+INC00066,2025-04-27,Phishing,Low,Moderate,Resolved,No,LOC0059
+INC00067,2023-05-20,Web Attack,High,Moderate,Contained,No,LOC0013
+INC00068,2024-01-03,Data Breach,Medium,Significant,Open,No,LOC0053
+INC00069,2025-11-25,Ransomware,Medium,Significant,Investigating,No,LOC0003
+INC00070,2023-11-16,DDoS,High,Moderate,Resolved,No,LOC0029
+INC00071,2025-10-14,Data Breach,Critical,Moderate,Investigating,Yes,LOC0035
+INC00072,2024-08-14,Data Breach,Medium,Severe,Investigating,No,LOC0046
+INC00073,2023-10-25,DDoS,High,Significant,Investigating,No,LOC0057
+INC00074,2024-11-08,Ransomware,Medium,Moderate,Contained,No,LOC0084
+INC00075,2025-09-04,Data Breach,High,Moderate,Resolved,Yes,LOC0036
+INC00076,2025-02-12,Data Breach,High,Low,Resolved,No,LOC0074
+INC00077,2026-04-06,Unauthorized Access,High,Severe,Contained,Yes,LOC0095
+INC00078,2026-01-13,Malware,High,Moderate,Investigating,No,LOC0075
+INC00079,2025-08-20,DDoS,Low,Moderate,Open,No,LOC0026
+INC00080,2025-02-09,Unauthorized Access,High,Severe,Contained,Yes,LOC0068
+INC00081,2024-01-06,Web Attack,High,Significant,Resolved,No,LOC0029
+INC00082,2024-06-10,Unauthorized Access,High,Low,Resolved,Yes,LOC0048
+INC00083,2023-06-01,Ransomware,Low,Low,Contained,No,LOC0064
+INC00084,2024-04-22,Unauthorized Access,Medium,Low,Resolved,No,LOC0030
+INC00085,2026-03-29,Phishing,Medium,Significant,Contained,No,LOC0001
+INC00086,2024-06-27,Malware,Low,Low,Resolved,No,LOC0084
+INC00087,2023-05-26,Data Breach,Medium,Severe,Contained,Yes,LOC0073
+INC00088,2025-04-12,Web Attack,Medium,Severe,Resolved,No,LOC0013
+INC00089,2026-05-14,Insider Threat,High,Significant,Contained,No,LOC0038
+INC00090,2026-01-12,Unauthorized Access,Medium,Significant,Resolved,Yes,LOC0027
+INC00091,2023-12-16,Malware,Critical,Moderate,Contained,No,LOC0098
+INC00092,2024-08-02,Web Attack,High,Low,Open,No,LOC0095
+INC00093,2024-11-09,DDoS,High,Significant,Investigating,No,LOC0070
+INC00094,2023-11-13,Ransomware,Medium,Low,Contained,No,LOC0045
+INC00095,2023-12-10,Web Attack,Medium,Low,Resolved,No,LOC0006
+INC00096,2023-10-30,Data Breach,High,Moderate,Resolved,No,LOC0025
+INC00097,2026-06-24,Data Breach,Critical,Low,Resolved,Yes,LOC0010
+INC00098,2025-08-10,Ransomware,Medium,Moderate,Investigating,No,LOC0079
+INC00099,2025-11-08,Web Attack,High,Significant,Resolved,No,LOC0009
+INC00100,2026-05-09,DDoS,High,Significant,Resolved,Yes,LOC0068
+INC00101,2023-05-15,Unauthorized Access,High,Significant,Contained,No,LOC0096
+INC00102,2026-01-30,Insider Threat,Low,Severe,Contained,Yes,LOC0031
+INC00103,2023-03-26,Data Breach,Medium,Moderate,Investigating,No,LOC0069
+INC00104,2024-08-30,Phishing,Medium,Severe,Contained,No,LOC0088
+INC00105,2025-01-29,Ransomware,Critical,Moderate,Resolved,No,LOC0043
+INC00106,2024-04-01,Ransomware,Medium,Moderate,Resolved,Yes,LOC0045
+INC00107,2023-07-06,Web Attack,Medium,Severe,Resolved,No,LOC0021
+INC00108,2023-09-03,Data Breach,Critical,Moderate,Investigating,No,LOC0043
+INC00109,2025-11-19,Ransomware,Medium,Low,Resolved,No,LOC0088
+INC00110,2024-02-12,Data Breach,Medium,Moderate,Resolved,No,LOC0067
+INC00111,2024-02-01,Data Breach,Medium,Moderate,Investigating,No,LOC0021
+INC00112,2026-03-25,DDoS,Low,Moderate,Resolved,No,LOC0053
+INC00113,2023-07-03,DDoS,Low,Moderate,Open,No,LOC0071
+INC00114,2026-03-14,Web Attack,Medium,Severe,Open,No,LOC0008
+INC00115,2026-03-22,Unauthorized Access,High,Moderate,Investigating,Yes,LOC0077
+INC00116,2025-02-03,Phishing,High,Moderate,Investigating,No,LOC0021
+INC00117,2023-07-31,Data Breach,Low,Moderate,Resolved,No,LOC0030
+INC00118,2023-07-19,Unauthorized Access,High,Significant,Contained,No,LOC0042
+INC00119,2023-12-30,Unauthorized Access,Low,Low,Investigating,No,LOC0051
+INC00120,2025-01-07,Data Breach,Critical,Low,Contained,No,LOC0092
+INC00121,2023-07-16,Web Attack,Low,Moderate,Contained,Yes,LOC0023
+INC00122,2024-08-04,Ransomware,High,Significant,Investigating,No,LOC0026
+INC00123,2023-05-28,DDoS,Medium,Significant,Investigating,No,LOC0038
+INC00124,2024-11-20,Phishing,High,Significant,Resolved,No,LOC0086
+INC00125,2023-01-28,Data Breach,Medium,Significant,Investigating,No,LOC0097
+INC00126,2025-06-24,DDoS,High,Moderate,Resolved,No,LOC0046
+INC00127,2023-03-12,Ransomware,Medium,Low,Investigating,No,LOC0070
+INC00128,2023-09-06,Data Breach,Critical,Low,Resolved,No,LOC0092
+INC00129,2023-08-12,DDoS,Medium,Low,Resolved,No,LOC0085
+INC00130,2025-11-27,DDoS,High,Moderate,Investigating,No,LOC0069
+INC00131,2023-03-10,DDoS,Critical,Moderate,Open,Yes,LOC0055
+INC00132,2024-07-02,Ransomware,Critical,Moderate,Resolved,No,LOC0099
+INC00133,2025-01-24,Phishing,Medium,Significant,Contained,No,LOC0024
+INC00134,2024-10-20,Insider Threat,Medium,Moderate,Resolved,No,LOC0037
+INC00135,2025-05-19,Malware,Medium,Significant,Open,No,LOC0072
+INC00136,2025-10-22,Ransomware,Medium,Significant,Investigating,No,LOC0003
+INC00137,2024-05-17,Data Breach,High,Moderate,Contained,No,LOC0051
+INC00138,2025-11-23,Phishing,Critical,Moderate,Resolved,No,LOC0086
+INC00139,2024-02-11,Data Breach,Critical,Significant,Investigating,No,LOC0018
+INC00140,2026-06-11,Data Breach,High,Significant,Resolved,Yes,LOC0081
+INC00141,2024-10-06,Data Breach,High,Moderate,Resolved,No,LOC0042
+INC00142,2025-07-28,Ransomware,Critical,Moderate,Open,No,LOC0087
+INC00143,2026-01-22,Malware,Critical,Significant,Investigating,No,LOC0064
+INC00144,2025-10-09,Web Attack,Medium,Significant,Investigating,Yes,LOC0016
+INC00145,2025-12-22,Ransomware,High,Low,Contained,No,LOC0074
+INC00146,2024-11-16,Insider Threat,Critical,Moderate,Resolved,No,LOC0006
+INC00147,2023-02-25,Phishing,Medium,Severe,Contained,No,LOC0025
+INC00148,2024-09-21,Phishing,Medium,Low,Investigating,Yes,LOC0089
+INC00149,2023-08-20,Insider Threat,Critical,Severe,Resolved,No,LOC0088
+INC00150,2026-02-09,Web Attack,Critical,Low,Resolved,No,LOC0005
+INC00151,2023-10-30,Insider Threat,Critical,Moderate,Contained,Yes,LOC0038
+INC00152,2023-10-19,Insider Threat,High,Moderate,Resolved,Yes,LOC0010
+INC00153,2023-11-15,Phishing,Medium,Low,Investigating,Yes,LOC0028
+INC00154,2025-03-31,Web Attack,Medium,Severe,Resolved,No,LOC0097
+INC00155,2024-12-30,Data Breach,High,Moderate,Contained,Yes,LOC0020
+INC00156,2026-04-26,Phishing,High,Severe,Contained,No,LOC0065
+INC00157,2024-06-15,Phishing,Medium,Moderate,Investigating,No,LOC0081
+INC00158,2023-12-27,Insider Threat,High,Severe,Resolved,No,LOC0089
+INC00159,2023-03-04,Ransomware,Medium,Severe,Resolved,No,LOC0036
+INC00160,2023-01-10,Insider Threat,High,Significant,Contained,No,LOC0070
+INC00161,2026-03-28,Phishing,Medium,Moderate,Resolved,Yes,LOC0049
+INC00162,2024-10-30,Ransomware,Medium,Significant,Resolved,No,LOC0011
+INC00163,2026-02-15,Ransomware,Low,Significant,Open,Yes,LOC0023
+INC00164,2023-05-10,Ransomware,Medium,Severe,Resolved,Yes,LOC0075
+INC00165,2023-04-30,Data Breach,Critical,Moderate,Contained,No,LOC0069
+INC00166,2025-11-30,Web Attack,Medium,Moderate,Resolved,Yes,LOC0053
+INC00167,2023-05-17,Web Attack,Medium,Low,Investigating,Yes,LOC0079
+INC00168,2023-03-08,Data Breach,High,Significant,Investigating,No,LOC0070
+INC00169,2024-05-31,Phishing,High,Severe,Contained,Yes,LOC0034
+INC00170,2026-03-27,Web Attack,Low,Low,Investigating,Yes,LOC0030
+INC00171,2025-05-30,Unauthorized Access,Medium,Significant,Resolved,No,LOC0095
+INC00172,2023-05-07,Unauthorized Access,Low,Severe,Contained,No,LOC0098
+INC00173,2025-12-05,Data Breach,High,Low,Investigating,No,LOC0004
+INC00174,2025-12-13,Insider Threat,Medium,Low,Contained,Yes,LOC0080
+INC00175,2025-10-19,Web Attack,Low,Significant,Resolved,No,LOC0014
+INC00176,2026-02-26,Unauthorized Access,Low,Significant,Resolved,No,LOC0087
+INC00177,2023-11-03,Unauthorized Access,High,Low,Contained,Yes,LOC0059
+INC00178,2026-06-04,Data Breach,Low,Severe,Investigating,Yes,LOC0069
+INC00179,2024-02-14,Ransomware,Critical,Moderate,Investigating,Yes,LOC0071
+INC00180,2025-10-21,Ransomware,Low,Severe,Resolved,No,LOC0061
+INC00181,2025-01-09,Data Breach,High,Severe,Resolved,Yes,LOC0026
+INC00182,2025-09-22,Malware,Medium,Significant,Resolved,No,LOC0081
+INC00183,2025-03-12,Ransomware,Medium,Moderate,Resolved,No,LOC0056
+INC00184,2025-03-31,Data Breach,Low,Moderate,Investigating,Yes,LOC0055
+INC00185,2025-02-25,Web Attack,High,Moderate,Resolved,No,LOC0032
+INC00186,2025-09-21,Unauthorized Access,Critical,Low,Investigating,Yes,LOC0002
+INC00187,2025-08-01,DDoS,Low,Significant,Investigating,Yes,LOC0056
+INC00188,2023-06-21,DDoS,Low,Low,Contained,No,LOC0035
+INC00189,2025-11-20,Data Breach,Critical,Moderate,Contained,No,LOC0066
+INC00190,2024-11-15,Unauthorized Access,High,Low,Resolved,No,LOC0037
+INC00191,2024-02-17,Malware,Low,Moderate,Investigating,No,LOC0098
+INC00192,2024-10-18,Unauthorized Access,Medium,Moderate,Resolved,Yes,LOC0069
+INC00193,2026-05-19,DDoS,High,Significant,Resolved,No,LOC0046
+INC00194,2025-12-31,Data Breach,High,Significant,Resolved,Yes,LOC0071
+INC00195,2025-11-30,Web Attack,High,Low,Resolved,No,LOC0065
+INC00196,2024-08-13,Web Attack,Critical,Severe,Contained,No,LOC0063
+INC00197,2025-09-28,Unauthorized Access,Medium,Severe,Contained,No,LOC0058
+INC00198,2024-05-06,Ransomware,Medium,Moderate,Investigating,No,LOC0094
+INC00199,2025-05-26,DDoS,Medium,Significant,Investigating,No,LOC0032
+INC00200,2025-03-27,Phishing,Medium,Moderate,Resolved,No,LOC0044
+INC00201,2023-11-15,Web Attack,Medium,Low,Contained,Yes,LOC0026
+INC00202,2023-12-07,Insider Threat,Low,Moderate,Contained,Yes,LOC0057
+INC00203,2023-03-20,Insider Threat,Medium,Low,Investigating,Yes,LOC0099
+INC00204,2023-06-28,Ransomware,High,Severe,Contained,No,LOC0061
+INC00205,2024-07-07,Ransomware,Low,Severe,Resolved,No,LOC0021
+INC00206,2024-09-02,Insider Threat,Medium,Significant,Investigating,Yes,LOC0093
+INC00207,2023-07-30,Unauthorized Access,High,Significant,Resolved,No,LOC0080
+INC00208,2024-06-16,Data Breach,High,Significant,Resolved,No,LOC0045
+INC00209,2025-02-10,DDoS,High,Severe,Resolved,Yes,LOC0015
+INC00210,2023-10-24,DDoS,High,Moderate,Investigating,No,LOC0041
+INC00211,2024-03-07,Data Breach,High,Low,Resolved,No,LOC0081
+INC00212,2024-04-14,Insider Threat,Low,Significant,Investigating,No,LOC0058
+INC00213,2024-10-06,Ransomware,Medium,Moderate,Contained,No,LOC0019
+INC00214,2024-04-12,Insider Threat,High,Moderate,Resolved,Yes,LOC0016
+INC00215,2025-07-30,Phishing,Medium,Low,Resolved,No,LOC0097
+INC00216,2024-02-23,DDoS,Low,Significant,Investigating,No,LOC0045
+INC00217,2024-07-08,Web Attack,Medium,Moderate,Resolved,No,LOC0069
+INC00218,2024-04-29,Web Attack,Medium,Moderate,Open,No,LOC0037
+INC00219,2023-08-22,Web Attack,Medium,Low,Resolved,No,LOC0010
+INC00220,2025-05-25,Ransomware,Low,Moderate,Resolved,No,LOC0042
+INC00221,2023-10-28,Insider Threat,Critical,Severe,Contained,Yes,LOC0070
+INC00222,2024-01-15,Web Attack,Critical,Moderate,Resolved,Yes,LOC0034
+INC00223,2025-10-09,Web Attack,Medium,Significant,Resolved,No,LOC0061
+INC00224,2026-04-26,Malware,Critical,Significant,Resolved,No,LOC0044
+INC00225,2025-05-06,Data Breach,Low,Moderate,Resolved,No,LOC0034
+INC00226,2026-03-16,Web Attack,Critical,Significant,Resolved,No,LOC0026
+INC00227,2025-12-26,Insider Threat,Critical,Significant,Investigating,Yes,LOC0027
+INC00228,2024-09-06,Phishing,Low,Significant,Resolved,Yes,LOC0026
+INC00229,2025-09-10,Insider Threat,High,Low,Investigating,No,LOC0072
+INC00230,2024-02-24,Malware,Critical,Low,Resolved,Yes,LOC0034
+INC00231,2024-08-11,DDoS,Critical,Severe,Investigating,No,LOC0075
+INC00232,2024-11-14,Data Breach,Critical,Significant,Investigating,No,LOC0032
+INC00233,2026-05-11,DDoS,High,Severe,Resolved,No,LOC0033
+INC00234,2025-12-19,Data Breach,Low,Severe,Investigating,No,LOC0093
+INC00235,2024-09-16,Phishing,Critical,Low,Contained,No,LOC0088
+INC00236,2025-04-13,Unauthorized Access,High,Significant,Resolved,No,LOC0041
+INC00237,2023-09-16,Data Breach,High,Moderate,Investigating,Yes,LOC0027
+INC00238,2025-10-24,Data Breach,Medium,Significant,Investigating,No,LOC0072
+INC00239,2024-12-07,Ransomware,High,Low,Contained,No,LOC0007
+INC00240,2024-11-11,Ransomware,Low,Moderate,Investigating,Yes,LOC0046
+INC00241,2025-09-05,Ransomware,High,Significant,Investigating,No,LOC0060
+INC00242,2025-03-19,DDoS,Low,Significant,Open,No,LOC0068
+INC00243,2023-04-03,Unauthorized Access,High,Significant,Contained,Yes,LOC0011
+INC00244,2024-01-03,Ransomware,Critical,Moderate,Investigating,No,LOC0001
+INC00245,2023-08-14,DDoS,Medium,Moderate,Open,No,LOC0028
+INC00246,2025-07-27,Ransomware,Medium,Severe,Resolved,No,LOC0012
+INC00247,2023-02-14,Phishing,Medium,Moderate,Resolved,No,LOC0051
+INC00248,2023-09-16,Data Breach,Critical,Moderate,Open,No,LOC0092
+INC00249,2025-02-01,Insider Threat,High,Significant,Investigating,No,LOC0029
+INC00250,2025-06-06,Ransomware,Medium,Moderate,Resolved,No,LOC0046
+INC00251,2024-10-04,Insider Threat,Low,Significant,Resolved,Yes,LOC0022
+INC00252,2026-01-04,Unauthorized Access,Medium,Moderate,Contained,Yes,LOC0005
+INC00253,2026-03-19,Phishing,Medium,Significant,Contained,No,LOC0071
+INC00254,2023-06-18,Ransomware,Critical,Severe,Investigating,No,LOC0026
+INC00255,2026-05-01,Malware,High,Severe,Resolved,Yes,LOC0055
+INC00256,2025-03-23,Malware,Medium,Significant,Resolved,No,LOC0069
+INC00257,2023-05-02,Ransomware,Critical,Moderate,Resolved,No,LOC0084
+INC00258,2025-03-05,DDoS,Medium,Significant,Investigating,No,LOC0019
+INC00259,2025-07-15,Insider Threat,Critical,Severe,Investigating,No,LOC0059
+INC00260,2025-01-11,Phishing,Medium,Significant,Investigating,No,LOC0092
+INC00261,2023-04-18,Insider Threat,High,Significant,Investigating,No,LOC0049
+INC00262,2024-10-30,Phishing,Critical,Significant,Investigating,No,LOC0005
+INC00263,2026-04-10,Phishing,Medium,Significant,Resolved,Yes,LOC0027
+INC00264,2025-07-12,Data Breach,High,Significant,Investigating,No,LOC0080
+INC00265,2023-06-25,Insider Threat,Critical,Moderate,Resolved,Yes,LOC0080
+INC00266,2026-05-10,Unauthorized Access,Low,Moderate,Open,No,LOC0032
+INC00267,2026-05-09,Malware,Low,Significant,Open,Yes,LOC0020
+INC00268,2023-08-05,Malware,High,Low,Resolved,No,LOC0030
+INC00269,2025-10-19,DDoS,Medium,Severe,Resolved,No,LOC0025
+INC00270,2024-06-03,DDoS,Low,Significant,Contained,Yes,LOC0075
+INC00271,2025-01-28,Web Attack,Medium,Low,Resolved,No,LOC0085
+INC00272,2024-07-22,Ransomware,High,Significant,Investigating,Yes,LOC0005
+INC00273,2025-09-26,Phishing,Medium,Significant,Investigating,No,LOC0075
+INC00274,2026-06-26,Web Attack,Medium,Significant,Contained,No,LOC0076
+INC00275,2025-10-12,Phishing,Critical,Moderate,Contained,No,LOC0062
+INC00276,2026-04-04,Malware,High,Severe,Resolved,No,LOC0088
+INC00277,2026-04-23,DDoS,Critical,Moderate,Investigating,No,LOC0004
+INC00278,2023-04-26,DDoS,Medium,Significant,Resolved,No,LOC0070
+INC00279,2023-11-20,Unauthorized Access,Critical,Low,Resolved,No,LOC0013
+INC00280,2025-07-10,Web Attack,High,Significant,Investigating,No,LOC0090
+INC00281,2025-01-23,Web Attack,Low,Significant,Open,No,LOC0050
+INC00282,2023-03-06,Ransomware,Critical,Significant,Contained,Yes,LOC0010
+INC00283,2023-05-02,Web Attack,Medium,Moderate,Resolved,No,LOC0075
+INC00284,2024-10-26,Data Breach,Low,Significant,Resolved,Yes,LOC0075
+INC00285,2025-02-25,Malware,Low,Significant,Resolved,No,LOC0047
+INC00286,2023-08-03,Web Attack,High,Moderate,Contained,No,LOC0032
+INC00287,2023-08-07,Phishing,Low,Severe,Investigating,No,LOC0002
+INC00288,2023-06-15,Unauthorized Access,Medium,Significant,Contained,Yes,LOC0091
+INC00289,2024-12-22,Insider Threat,Low,Severe,Investigating,Yes,LOC0019
+INC00290,2023-01-11,Phishing,Medium,Severe,Resolved,No,LOC0085
+INC00291,2024-12-31,Ransomware,Medium,Severe,Investigating,Yes,LOC0059
+INC00292,2024-08-30,DDoS,High,Significant,Investigating,No,LOC0069
+INC00293,2024-08-18,Web Attack,Medium,Significant,Contained,No,LOC0070
+INC00294,2025-05-17,Phishing,Low,Low,Contained,No,LOC0086
+INC00295,2024-10-29,Data Breach,High,Significant,Resolved,Yes,LOC0004
+INC00296,2025-07-18,DDoS,Medium,Significant,Contained,Yes,LOC0100
+INC00297,2025-09-02,Malware,High,Moderate,Resolved,No,LOC0005
+INC00298,2026-03-20,Data Breach,Low,Severe,Resolved,No,LOC0100
+INC00299,2025-10-17,Insider Threat,Low,Low,Resolved,Yes,LOC0027
+INC00300,2024-10-23,Unauthorized Access,Medium,Moderate,Resolved,Yes,LOC0085
+INC00301,2024-09-20,Phishing,Medium,Moderate,Resolved,No,LOC0009
+INC00302,2023-10-28,Phishing,Medium,Moderate,Resolved,No,LOC0047
+INC00303,2025-02-04,DDoS,High,Low,Contained,Yes,LOC0055
+INC00304,2023-06-27,Unauthorized Access,Medium,Low,Investigating,Yes,LOC0096
+INC00305,2026-04-04,Unauthorized Access,High,Severe,Resolved,No,LOC0013
+INC00306,2025-12-15,Phishing,High,Moderate,Open,Yes,LOC0004
+INC00307,2023-06-02,Unauthorized Access,Low,Low,Open,Yes,LOC0065
+INC00308,2025-09-30,Ransomware,Medium,Low,Resolved,No,LOC0005
+INC00309,2023-05-30,Data Breach,Medium,Moderate,Open,No,LOC0078
+INC00310,2025-07-10,Insider Threat,Medium,Low,Contained,Yes,LOC0004
+INC00311,2023-04-23,Data Breach,Low,Significant,Resolved,No,LOC0098
+INC00312,2024-09-15,Malware,High,Significant,Investigating,Yes,LOC0054
+INC00313,2025-04-20,Web Attack,Critical,Moderate,Resolved,Yes,LOC0095
+INC00314,2025-07-19,Malware,Low,Significant,Investigating,No,LOC0013
+INC00315,2024-06-18,Web Attack,High,Low,Resolved,No,LOC0028
+INC00316,2026-03-22,Malware,High,Moderate,Resolved,No,LOC0046
+INC00317,2025-09-15,Unauthorized Access,Medium,Severe,Investigating,No,LOC0003
+INC00318,2023-09-23,Malware,High,Significant,Investigating,Yes,LOC0011
+INC00319,2025-05-07,Malware,High,Severe,Investigating,No,LOC0033
+INC00320,2025-07-21,Data Breach,Critical,Moderate,Contained,No,LOC0074
+INC00321,2024-03-02,Data Breach,Critical,Moderate,Investigating,Yes,LOC0071
+INC00322,2025-07-31,Malware,Low,Moderate,Resolved,No,LOC0009
+INC00323,2026-02-21,Web Attack,Medium,Moderate,Investigating,Yes,LOC0006
+INC00324,2025-08-31,Ransomware,High,Severe,Resolved,No,LOC0066
+INC00325,2025-03-21,Ransomware,Low,Low,Investigating,No,LOC0036
+INC00326,2023-12-12,Ransomware,Medium,Severe,Resolved,Yes,LOC0080
+INC00327,2025-10-12,DDoS,Critical,Severe,Investigating,No,LOC0030
+INC00328,2024-04-10,Phishing,Low,Significant,Contained,Yes,LOC0037
+INC00329,2024-11-10,DDoS,Medium,Moderate,Resolved,No,LOC0022
+INC00330,2024-02-06,Phishing,Critical,Moderate,Investigating,Yes,LOC0027
+INC00331,2024-02-04,Malware,Medium,Moderate,Resolved,Yes,LOC0071
+INC00332,2023-07-21,Ransomware,Medium,Significant,Investigating,No,LOC0048
+INC00333,2026-05-12,Data Breach,Critical,Moderate,Resolved,No,LOC0066
+INC00334,2023-07-08,Insider Threat,Medium,Severe,Resolved,Yes,LOC0008
+INC00335,2023-04-21,Ransomware,Low,Significant,Resolved,No,LOC0054
+INC00336,2026-04-10,Ransomware,Low,Moderate,Open,Yes,LOC0046
+INC00337,2024-12-09,Insider Threat,Critical,Significant,Investigating,No,LOC0092
+INC00338,2024-07-13,Data Breach,Medium,Moderate,Investigating,No,LOC0043
+INC00339,2025-07-30,Insider Threat,Medium,Severe,Investigating,Yes,LOC0011
+INC00340,2024-05-04,Web Attack,Low,Moderate,Investigating,No,LOC0070
+INC00341,2023-06-13,Insider Threat,Medium,Severe,Resolved,No,LOC0015
+INC00342,2025-07-20,Web Attack,Critical,Significant,Contained,No,LOC0091
+INC00343,2023-08-13,DDoS,Medium,Severe,Resolved,No,LOC0039
+INC00344,2024-12-07,DDoS,Critical,Moderate,Contained,No,LOC0079
+INC00345,2026-04-26,Ransomware,Medium,Severe,Investigating,No,LOC0066
+INC00346,2026-04-10,Phishing,Medium,Moderate,Contained,No,LOC0047
+INC00347,2024-04-05,Data Breach,Critical,Significant,Investigating,No,LOC0059
+INC00348,2025-09-23,Data Breach,Medium,Low,Contained,No,LOC0019
+INC00349,2025-02-21,Insider Threat,Medium,Moderate,Contained,No,LOC0008
+INC00350,2024-09-04,Phishing,Critical,Moderate,Contained,No,LOC0077
+INC00351,2023-06-28,DDoS,Medium,Moderate,Resolved,No,LOC0096
+INC00352,2024-04-25,Phishing,High,Moderate,Investigating,No,LOC0087
+INC00353,2025-04-12,Web Attack,Critical,Significant,Contained,No,LOC0031
+INC00354,2026-06-13,Ransomware,Medium,Moderate,Investigating,No,LOC0036
+INC00355,2023-01-07,Phishing,Medium,Significant,Contained,No,LOC0036
+INC00356,2025-07-05,Unauthorized Access,Low,Low,Resolved,No,LOC0071
+INC00357,2025-12-16,Web Attack,Medium,Significant,Investigating,No,LOC0063
+INC00358,2026-04-29,Web Attack,Medium,Significant,Resolved,No,LOC0080
+INC00359,2024-06-25,Malware,High,Moderate,Contained,No,LOC0095
+INC00360,2023-06-01,Ransomware,Medium,Significant,Open,Yes,LOC0040
+INC00361,2023-12-13,Phishing,High,Severe,Resolved,No,LOC0067
+INC00362,2025-12-22,Ransomware,Medium,Significant,Contained,Yes,LOC0051
+INC00363,2026-01-26,Unauthorized Access,Medium,Moderate,Resolved,Yes,LOC0096
+INC00364,2025-03-24,Ransomware,Medium,Moderate,Contained,No,LOC0036
+INC00365,2023-06-06,Malware,High,Significant,Resolved,No,LOC0019
+INC00366,2023-06-05,Unauthorized Access,Medium,Moderate,Investigating,No,LOC0038
+INC00367,2024-09-02,Malware,Medium,Significant,Contained,Yes,LOC0062
+INC00368,2025-01-21,Phishing,Critical,Moderate,Resolved,No,LOC0096
+INC00369,2023-02-11,Malware,High,Significant,Contained,No,LOC0083
+INC00370,2025-05-26,Malware,Medium,Low,Contained,No,LOC0002
+INC00371,2024-11-26,DDoS,Critical,Low,Resolved,No,LOC0051
+INC00372,2023-01-16,Insider Threat,Medium,Severe,Resolved,No,LOC0016
+INC00373,2023-05-03,Insider Threat,Low,Severe,Resolved,Yes,LOC0037
+INC00374,2024-08-03,Malware,Medium,Severe,Resolved,Yes,LOC0095
+INC00375,2025-07-11,Malware,Low,Severe,Resolved,Yes,LOC0099
+INC00376,2025-11-20,Ransomware,Medium,Moderate,Resolved,No,LOC0016
+INC00377,2024-07-04,Data Breach,High,Moderate,Resolved,Yes,LOC0015
+INC00378,2024-01-13,Data Breach,Low,Low,Investigating,Yes,LOC0070
+INC00379,2026-05-21,Insider Threat,High,Moderate,Open,Yes,LOC0042
+INC00380,2024-08-08,Ransomware,Critical,Moderate,Resolved,Yes,LOC0044
+INC00381,2024-02-07,Phishing,High,Severe,Resolved,No,LOC0088
+INC00382,2024-07-18,Malware,High,Low,Contained,Yes,LOC0093
+INC00383,2023-01-16,Phishing,High,Low,Investigating,No,LOC0091
+INC00384,2024-01-21,Malware,Critical,Moderate,Investigating,Yes,LOC0079
+INC00385,2024-10-20,Insider Threat,Medium,Moderate,Contained,Yes,LOC0099
+INC00386,2026-03-18,Ransomware,Low,Moderate,Resolved,Yes,LOC0072
+INC00387,2025-07-31,Insider Threat,Medium,Significant,Investigating,No,LOC0089
+INC00388,2025-09-24,Unauthorized Access,High,Moderate,Resolved,Yes,LOC0055
+INC00389,2024-11-26,Unauthorized Access,Low,Significant,Resolved,No,LOC0006
+INC00390,2024-05-14,DDoS,High,Severe,Resolved,Yes,LOC0082
+INC00391,2026-06-27,Insider Threat,Low,Significant,Open,No,LOC0093
+INC00392,2026-01-27,Malware,Critical,Significant,Resolved,Yes,LOC0032
+INC00393,2025-05-24,Malware,Medium,Moderate,Resolved,No,LOC0043
+INC00394,2023-12-29,DDoS,Low,Low,Resolved,No,LOC0058
+INC00395,2025-09-20,DDoS,Low,Moderate,Open,Yes,LOC0066
+INC00396,2025-12-04,Unauthorized Access,Medium,Severe,Contained,Yes,LOC0068
+INC00397,2023-02-25,Data Breach,Medium,Significant,Resolved,No,LOC0040
+INC00398,2023-05-16,Unauthorized Access,Low,Moderate,Investigating,Yes,LOC0086
+INC00399,2025-04-30,Ransomware,Medium,Moderate,Contained,Yes,LOC0082
+INC00400,2026-06-29,Ransomware,Medium,Severe,Resolved,No,LOC0095
+INC00401,2023-01-31,Insider Threat,Medium,Significant,Resolved,Yes,LOC0058
+INC00402,2025-04-30,Phishing,Medium,Significant,Open,No,LOC0008
+INC00403,2023-06-24,Unauthorized Access,Medium,Severe,Contained,No,LOC0085
+INC00404,2025-04-10,Unauthorized Access,Medium,Significant,Investigating,No,LOC0008
+INC00405,2025-03-06,Insider Threat,Low,Significant,Resolved,Yes,LOC0020
+INC00406,2023-04-26,Data Breach,Low,Moderate,Resolved,No,LOC0029
+INC00407,2025-05-19,DDoS,Medium,Low,Investigating,No,LOC0019
+INC00408,2026-02-19,Ransomware,High,Severe,Investigating,Yes,LOC0073
+INC00409,2023-02-07,Ransomware,Critical,Significant,Investigating,No,LOC0045
+INC00410,2023-11-11,DDoS,Critical,Moderate,Contained,No,LOC0022
+INC00411,2023-11-04,Phishing,Medium,Significant,Resolved,No,LOC0001
+INC00412,2024-08-01,Data Breach,High,Low,Contained,Yes,LOC0022
+INC00413,2023-07-02,Phishing,Medium,Significant,Open,Yes,LOC0070
+INC00414,2025-12-27,Data Breach,High,Moderate,Open,No,LOC0080
+INC00415,2025-09-18,Insider Threat,High,Significant,Investigating,No,LOC0030
+INC00416,2025-10-29,Web Attack,Critical,Significant,Resolved,No,LOC0008
+INC00417,2023-09-11,Malware,Critical,Moderate,Resolved,Yes,LOC0056
+INC00418,2023-01-19,Insider Threat,Medium,Low,Resolved,No,LOC0079
+INC00419,2026-03-08,Malware,High,Significant,Investigating,Yes,LOC0008
+INC00420,2024-01-04,Ransomware,High,Low,Resolved,No,LOC0080
+INC00421,2025-04-18,Phishing,Medium,Low,Investigating,No,LOC0018
+INC00422,2026-03-07,Phishing,Critical,Significant,Resolved,Yes,LOC0026
+INC00423,2023-02-16,Phishing,Low,Moderate,Resolved,Yes,LOC0063
+INC00424,2023-01-07,Malware,Critical,Moderate,Contained,Yes,LOC0006
+INC00425,2023-01-07,Insider Threat,High,Moderate,Resolved,No,LOC0031
+INC00426,2023-07-19,Malware,Low,Severe,Investigating,Yes,LOC0014
+INC00427,2023-03-07,DDoS,High,Moderate,Resolved,No,LOC0022
+INC00428,2025-11-13,Data Breach,Low,Moderate,Open,No,LOC0078
+INC00429,2025-02-12,Web Attack,High,Moderate,Contained,No,LOC0023
+INC00430,2026-06-05,Insider Threat,High,Moderate,Investigating,No,LOC0005
+INC00431,2025-10-20,Phishing,High,Moderate,Open,No,LOC0022
+INC00432,2026-05-14,Web Attack,Critical,Low,Open,No,LOC0009
+INC00433,2023-11-01,Data Breach,Low,Low,Investigating,No,LOC0063
+INC00434,2024-01-03,Phishing,Medium,Moderate,Resolved,No,LOC0098
+INC00435,2025-12-20,DDoS,Medium,Severe,Contained,No,LOC0017
+INC00436,2023-11-09,Web Attack,Low,Low,Investigating,No,LOC0073
+INC00437,2023-03-15,DDoS,Medium,Moderate,Resolved,No,LOC0037
+INC00438,2025-05-04,Phishing,Medium,Severe,Resolved,No,LOC0008
+INC00439,2025-10-19,Web Attack,Medium,Severe,Investigating,Yes,LOC0069
+INC00440,2026-05-21,Web Attack,Medium,Significant,Contained,No,LOC0021
+INC00441,2026-03-30,Web Attack,Critical,Moderate,Resolved,Yes,LOC0052
+INC00442,2023-06-03,Web Attack,Medium,Moderate,Resolved,No,LOC0051
+INC00443,2025-09-12,Insider Threat,Critical,Moderate,Contained,No,LOC0060
+INC00444,2025-12-16,DDoS,Medium,Low,Resolved,No,LOC0014
+INC00445,2025-06-10,Phishing,Medium,Moderate,Investigating,Yes,LOC0026
+INC00446,2025-11-12,Unauthorized Access,Medium,Significant,Investigating,No,LOC0074
+INC00447,2025-12-06,Phishing,Medium,Moderate,Resolved,No,LOC0094
+INC00448,2024-07-24,DDoS,Medium,Significant,Resolved,No,LOC0002
+INC00449,2023-02-21,Data Breach,Medium,Moderate,Resolved,No,LOC0042
+INC00450,2024-08-05,Web Attack,Low,Moderate,Open,No,LOC0089
+INC00451,2023-09-15,Ransomware,Medium,Significant,Investigating,No,LOC0029
+INC00452,2023-05-26,Ransomware,High,Severe,Open,Yes,LOC0045
+INC00453,2023-06-09,Data Breach,Medium,Moderate,Investigating,No,LOC0091
+INC00454,2025-06-09,Malware,Critical,Significant,Open,No,LOC0097
+INC00455,2024-10-06,Unauthorized Access,Medium,Moderate,Contained,Yes,LOC0066
+INC00456,2024-11-20,Data Breach,Critical,Low,Contained,No,LOC0070
+INC00457,2025-08-09,Unauthorized Access,High,Significant,Resolved,No,LOC0062
+INC00458,2024-12-01,DDoS,Critical,Low,Contained,No,LOC0029
+INC00459,2025-03-15,Insider Threat,Critical,Moderate,Open,No,LOC0089
+INC00460,2023-04-20,Ransomware,Low,Moderate,Resolved,No,LOC0004
+INC00461,2025-12-22,Data Breach,High,Moderate,Open,Yes,LOC0006
+INC00462,2024-07-27,DDoS,Low,Low,Resolved,No,LOC0061
+INC00463,2023-07-18,Malware,High,Moderate,Open,No,LOC0084
+INC00464,2025-11-04,Unauthorized Access,High,Severe,Contained,No,LOC0082
+INC00465,2025-07-27,Malware,Medium,Significant,Resolved,No,LOC0068
+INC00466,2023-03-09,Web Attack,Critical,Moderate,Resolved,No,LOC0038
+INC00467,2023-09-04,Unauthorized Access,Low,Low,Resolved,No,LOC0036
+INC00468,2023-01-21,Ransomware,High,Significant,Resolved,Yes,LOC0043
+INC00469,2023-12-12,DDoS,High,Low,Investigating,No,LOC0026
+INC00470,2023-05-08,Unauthorized Access,Low,Significant,Resolved,No,LOC0042
+INC00471,2025-06-25,Ransomware,High,Significant,Resolved,No,LOC0011
+INC00472,2024-10-29,Ransomware,High,Moderate,Resolved,Yes,LOC0032
+INC00473,2026-06-05,DDoS,Low,Moderate,Contained,No,LOC0095
+INC00474,2025-08-15,Ransomware,Medium,Low,Contained,Yes,LOC0071
+INC00475,2025-02-19,Insider Threat,Medium,Low,Resolved,No,LOC0015
+INC00476,2024-10-12,Malware,High,Moderate,Resolved,No,LOC0029
+INC00477,2023-03-11,Insider Threat,Low,Severe,Investigating,Yes,LOC0026
+INC00478,2023-03-31,Ransomware,Critical,Moderate,Investigating,No,LOC0029
+INC00479,2025-02-26,Unauthorized Access,Critical,Significant,Investigating,No,LOC0070
+INC00480,2023-02-24,Phishing,Medium,Significant,Contained,Yes,LOC0090
+INC00481,2023-10-07,DDoS,Medium,Low,Investigating,No,LOC0072
+INC00482,2026-02-03,Insider Threat,High,Low,Open,No,LOC0049
+INC00483,2024-08-09,Ransomware,High,Moderate,Open,Yes,LOC0017
+INC00484,2024-06-09,Phishing,Medium,Significant,Resolved,No,LOC0015
+INC00485,2023-08-10,Unauthorized Access,Low,Moderate,Open,No,LOC0082
+INC00486,2024-04-18,Phishing,Low,Significant,Open,Yes,LOC0068
+INC00487,2023-04-28,Ransomware,Critical,Severe,Contained,Yes,LOC0052
+INC00488,2025-09-10,DDoS,Medium,Significant,Investigating,No,LOC0058
+INC00489,2024-04-25,Unauthorized Access,Critical,Severe,Resolved,Yes,LOC0085
+INC00490,2026-06-05,Data Breach,Medium,Significant,Resolved,No,LOC0082
+INC00491,2025-01-25,Data Breach,Critical,Severe,Contained,No,LOC0009
+INC00492,2024-08-08,Insider Threat,Low,Severe,Contained,No,LOC0040
+INC00493,2024-11-24,Malware,Low,Significant,Contained,No,LOC0005
+INC00494,2025-09-28,Ransomware,Critical,Significant,Open,No,LOC0039
+INC00495,2023-11-21,Malware,Critical,Severe,Investigating,No,LOC0064
+INC00496,2025-03-23,Malware,Medium,Moderate,Investigating,No,LOC0021
+INC00497,2026-01-19,Phishing,Medium,Significant,Open,No,LOC0016
+INC00498,2024-12-31,Unauthorized Access,Medium,Moderate,Resolved,No,LOC0050
+INC00499,2024-07-24,Web Attack,Medium,Severe,Open,No,LOC0053
+INC00500,2023-07-05,Insider Threat,Medium,Moderate,Open,Yes,LOC0072
+INC00501,2023-11-14,Data Breach,Critical,Significant,Contained,No,LOC0002
+INC00502,2026-04-23,Insider Threat,Medium,Significant,Contained,No,LOC0025
+INC00503,2024-11-22,Phishing,High,Severe,Investigating,Yes,LOC0078
+INC00504,2024-01-20,Insider Threat,Low,Moderate,Open,Yes,LOC0069
+INC00505,2024-06-18,Web Attack,Low,Significant,Investigating,No,LOC0090
+INC00506,2025-01-08,Malware,High,Significant,Investigating,No,LOC0082
+INC00507,2024-11-17,DDoS,Medium,Severe,Resolved,No,LOC0084
+INC00508,2025-06-12,Insider Threat,High,Severe,Resolved,No,LOC0052
+INC00509,2023-11-25,DDoS,Low,Significant,Contained,No,LOC0096
+INC00510,2025-04-09,Insider Threat,Critical,Significant,Contained,No,LOC0042
+INC00511,2024-07-19,Web Attack,High,Low,Resolved,Yes,LOC0091
+INC00512,2026-04-16,DDoS,Critical,Severe,Resolved,No,LOC0040
+INC00513,2023-07-21,Malware,Low,Moderate,Investigating,Yes,LOC0045
+INC00514,2023-07-09,Ransomware,Medium,Significant,Open,No,LOC0069
+INC00515,2024-08-12,Phishing,Medium,Significant,Contained,No,LOC0040
+INC00516,2025-06-01,DDoS,High,Moderate,Resolved,No,LOC0015
+INC00517,2024-05-30,Unauthorized Access,Medium,Moderate,Investigating,No,LOC0090
+INC00518,2026-03-12,DDoS,Low,Moderate,Investigating,No,LOC0046
+INC00519,2024-08-28,Phishing,Medium,Severe,Investigating,Yes,LOC0093
+INC00520,2023-06-15,Ransomware,Medium,Moderate,Investigating,Yes,LOC0040
+INC00521,2023-06-02,Data Breach,Medium,Low,Contained,Yes,LOC0098
+INC00522,2026-05-28,Malware,Medium,Significant,Resolved,Yes,LOC0061
+INC00523,2023-06-21,Phishing,Medium,Moderate,Contained,No,LOC0077
+INC00524,2026-04-25,Web Attack,High,Severe,Investigating,No,LOC0076
+INC00525,2023-12-22,Malware,Medium,Moderate,Open,No,LOC0021
+INC00526,2023-04-30,DDoS,Medium,Moderate,Resolved,No,LOC0082
+INC00527,2024-01-25,Phishing,High,Low,Contained,Yes,LOC0095
+INC00528,2025-02-23,Malware,High,Moderate,Open,Yes,LOC0067
+INC00529,2024-06-30,DDoS,Medium,Moderate,Investigating,No,LOC0095
+INC00530,2025-09-30,Unauthorized Access,High,Significant,Resolved,No,LOC0085
+INC00531,2025-02-19,Phishing,Critical,Moderate,Resolved,No,LOC0067
+INC00532,2024-05-26,Malware,High,Moderate,Resolved,Yes,LOC0048
+INC00533,2025-03-21,Phishing,Critical,Moderate,Resolved,No,LOC0086
+INC00534,2026-05-25,Data Breach,High,Moderate,Contained,No,LOC0019
+INC00535,2024-06-09,Insider Threat,Low,Severe,Contained,No,LOC0057
+INC00536,2023-07-15,Phishing,Medium,Low,Investigating,Yes,LOC0082
+INC00537,2024-06-06,Ransomware,High,Severe,Resolved,Yes,LOC0095
+INC00538,2025-12-08,Ransomware,Critical,Moderate,Resolved,No,LOC0027
+INC00539,2023-10-05,Ransomware,Medium,Low,Investigating,No,LOC0010
+INC00540,2026-04-27,Phishing,Low,Moderate,Resolved,No,LOC0034
+INC00541,2025-01-21,Malware,High,Low,Contained,Yes,LOC0087
+INC00542,2025-02-07,Unauthorized Access,Low,Significant,Open,No,LOC0053
+INC00543,2024-02-09,Ransomware,High,Moderate,Investigating,No,LOC0006
+INC00544,2026-03-21,Ransomware,Medium,Moderate,Resolved,No,LOC0012
+INC00545,2023-02-16,Ransomware,High,Significant,Resolved,No,LOC0034
+INC00546,2024-01-17,Web Attack,Critical,Significant,Contained,No,LOC0035
+INC00547,2024-06-18,Unauthorized Access,High,Severe,Resolved,No,LOC0014
+INC00548,2024-09-01,DDoS,High,Severe,Resolved,No,LOC0050
+INC00549,2024-08-28,Phishing,High,Significant,Resolved,No,LOC0048
+INC00550,2023-07-08,Insider Threat,Critical,Significant,Resolved,No,LOC0020
+INC00551,2023-10-16,Web Attack,Critical,Significant,Contained,No,LOC0024
+INC00552,2023-05-02,Malware,Low,Moderate,Resolved,No,LOC0067
+INC00553,2025-01-01,Web Attack,High,Significant,Resolved,No,LOC0096
+INC00554,2024-03-24,Data Breach,Medium,Low,Resolved,No,LOC0100
+INC00555,2024-12-23,Malware,Critical,Significant,Investigating,No,LOC0056
+INC00556,2025-01-23,Insider Threat,High,Severe,Resolved,No,LOC0004
+INC00557,2025-06-15,Malware,Medium,Low,Resolved,No,LOC0090
+INC00558,2024-11-29,Malware,Medium,Severe,Investigating,No,LOC0096
+INC00559,2025-04-07,Malware,Medium,Severe,Resolved,No,LOC0028
+INC00560,2025-01-19,DDoS,High,Moderate,Contained,Yes,LOC0041
+INC00561,2025-04-13,Unauthorized Access,Medium,Moderate,Investigating,No,LOC0003
+INC00562,2025-02-26,DDoS,Low,Severe,Open,No,LOC0081
+INC00563,2024-02-08,Malware,Critical,Severe,Resolved,No,LOC0078
+INC00564,2025-10-02,Phishing,High,Low,Resolved,No,LOC0003
+INC00565,2024-03-13,Insider Threat,Medium,Moderate,Investigating,No,LOC0071
+INC00566,2024-12-02,Web Attack,Medium,Significant,Resolved,No,LOC0042
+INC00567,2023-09-09,Insider Threat,Critical,Moderate,Investigating,No,LOC0055
+INC00568,2024-07-04,Malware,High,Moderate,Contained,No,LOC0022
+INC00569,2024-11-07,Insider Threat,High,Low,Resolved,No,LOC0082
+INC00570,2025-03-10,Data Breach,Medium,Low,Resolved,No,LOC0041
+INC00571,2024-11-03,Unauthorized Access,Medium,Significant,Resolved,No,LOC0085
+INC00572,2024-04-05,Phishing,Low,Significant,Resolved,No,LOC0015
+INC00573,2026-05-13,Web Attack,High,Significant,Resolved,No,LOC0059
+INC00574,2024-10-16,DDoS,Low,Significant,Investigating,Yes,LOC0032
+INC00575,2025-10-29,Malware,Low,Moderate,Investigating,No,LOC0097
+INC00576,2025-07-29,Phishing,High,Moderate,Open,Yes,LOC0056
+INC00577,2024-12-13,DDoS,Critical,Low,Resolved,No,LOC0072
+INC00578,2026-02-05,Malware,High,Moderate,Resolved,No,LOC0009
+INC00579,2023-06-13,Ransomware,Medium,Moderate,Resolved,No,LOC0068
+INC00580,2026-03-22,DDoS,Medium,Low,Investigating,No,LOC0011
+INC00581,2025-12-21,Web Attack,Medium,Low,Open,No,LOC0037
+INC00582,2024-10-05,Malware,Medium,Low,Resolved,No,LOC0023
+INC00583,2025-07-25,Unauthorized Access,High,Significant,Resolved,No,LOC0001
+INC00584,2024-10-26,Web Attack,Medium,Significant,Investigating,No,LOC0059
+INC00585,2023-12-10,Insider Threat,High,Severe,Investigating,No,LOC0025
+INC00586,2025-10-18,Web Attack,Critical,Significant,Investigating,No,LOC0052
+INC00587,2023-11-11,Phishing,Critical,Significant,Contained,Yes,LOC0077
+INC00588,2024-02-06,Insider Threat,Low,Low,Investigating,Yes,LOC0018
+INC00589,2024-10-25,Web Attack,Medium,Significant,Contained,No,LOC0071
+INC00590,2025-12-05,Ransomware,Medium,Low,Resolved,Yes,LOC0030
+INC00591,2024-05-05,DDoS,Medium,Moderate,Contained,No,LOC0034
+INC00592,2024-09-23,Unauthorized Access,Medium,Moderate,Contained,Yes,LOC0058
+INC00593,2023-02-23,DDoS,Low,Moderate,Open,No,LOC0063
+INC00594,2023-05-28,Ransomware,High,Moderate,Resolved,Yes,LOC0066
+INC00595,2023-03-13,Web Attack,Medium,Significant,Contained,Yes,LOC0020
+INC00596,2023-04-03,Web Attack,Critical,Severe,Investigating,No,LOC0058
+INC00597,2026-01-14,DDoS,Low,Significant,Open,No,LOC0027
+INC00598,2025-12-11,Insider Threat,Low,Significant,Resolved,No,LOC0028
+INC00599,2025-11-15,DDoS,Medium,Significant,Resolved,No,LOC0095
+INC00600,2023-03-12,Insider Threat,Low,Low,Open,Yes,LOC0011
+INC00601,2023-04-10,Unauthorized Access,Medium,Significant,Investigating,No,LOC0042
+INC00602,2023-12-25,DDoS,Critical,Significant,Investigating,No,LOC0044
+INC00603,2024-12-22,Phishing,Medium,Moderate,Resolved,Yes,LOC0025
+INC00604,2024-03-02,Data Breach,Medium,Moderate,Resolved,No,LOC0079
+INC00605,2024-09-14,Ransomware,High,Severe,Contained,No,LOC0049
+INC00606,2023-08-09,Phishing,Medium,Significant,Contained,No,LOC0072
+INC00607,2025-07-22,Phishing,High,Moderate,Resolved,No,LOC0039
+INC00608,2024-02-05,Web Attack,Medium,Significant,Resolved,No,LOC0090
+INC00609,2025-08-06,Malware,Critical,Moderate,Investigating,Yes,LOC0073
+INC00610,2026-02-26,Insider Threat,Low,Moderate,Investigating,No,LOC0034
+INC00611,2023-01-19,Insider Threat,Medium,Moderate,Contained,No,LOC0097
+INC00612,2024-07-11,Malware,High,Moderate,Resolved,Yes,LOC0087
+INC00613,2025-06-20,Unauthorized Access,Critical,Significant,Resolved,Yes,LOC0060
+INC00614,2025-12-29,Unauthorized Access,Medium,Low,Resolved,No,LOC0002
+INC00615,2024-06-14,Ransomware,High,Significant,Resolved,No,LOC0060
+INC00616,2024-04-20,Data Breach,Low,Moderate,Investigating,No,LOC0070
+INC00617,2025-06-24,DDoS,Low,Significant,Investigating,No,LOC0037
+INC00618,2023-07-16,DDoS,Low,Significant,Open,No,LOC0015
+INC00619,2023-11-02,DDoS,High,Significant,Resolved,No,LOC0057
+INC00620,2025-02-06,Insider Threat,Medium,Significant,Resolved,No,LOC0081
+INC00621,2025-05-03,Data Breach,High,Severe,Investigating,No,LOC0032
+INC00622,2023-06-02,DDoS,Low,Moderate,Open,Yes,LOC0046
+INC00623,2024-10-11,Web Attack,Critical,Significant,Resolved,Yes,LOC0001
+INC00624,2024-04-11,Insider Threat,Critical,Significant,Resolved,No,LOC0071
+INC00625,2024-10-02,Web Attack,Low,Moderate,Resolved,Yes,LOC0087
+INC00626,2026-05-08,Data Breach,Low,Moderate,Investigating,No,LOC0078
+INC00627,2023-04-08,DDoS,Low,Moderate,Resolved,No,LOC0043
+INC00628,2026-06-25,Insider Threat,Critical,Moderate,Resolved,No,LOC0005
+INC00629,2024-07-28,Ransomware,Medium,Moderate,Resolved,No,LOC0050
+INC00630,2025-09-12,Ransomware,High,Moderate,Resolved,No,LOC0095
+INC00631,2024-02-02,DDoS,Medium,Significant,Resolved,Yes,LOC0009
+INC00632,2025-09-11,Web Attack,High,Moderate,Resolved,No,LOC0022
+INC00633,2025-05-28,Unauthorized Access,Medium,Significant,Resolved,Yes,LOC0084
+INC00634,2023-07-03,DDoS,Medium,Moderate,Contained,No,LOC0057
+INC00635,2025-06-19,DDoS,Critical,Significant,Contained,Yes,LOC0018
+INC00636,2025-08-19,Ransomware,Low,Low,Resolved,Yes,LOC0003
+INC00637,2024-05-10,Data Breach,Critical,Moderate,Resolved,Yes,LOC0042
+INC00638,2026-03-28,Ransomware,Low,Low,Open,No,LOC0060
+INC00639,2025-03-29,Unauthorized Access,Medium,Significant,Investigating,Yes,LOC0085
+INC00640,2024-03-02,Ransomware,Critical,Moderate,Resolved,No,LOC0089
+INC00641,2023-01-14,Ransomware,High,Severe,Resolved,No,LOC0046
+INC00642,2025-05-11,Web Attack,High,Moderate,Resolved,No,LOC0043
+INC00643,2023-09-24,Ransomware,Medium,Significant,Contained,No,LOC0094
+INC00644,2025-08-24,Malware,Medium,Moderate,Resolved,Yes,LOC0078
+INC00645,2024-11-01,DDoS,Medium,Significant,Resolved,No,LOC0021
+INC00646,2024-08-19,Unauthorized Access,High,Moderate,Investigating,No,LOC0069
+INC00647,2023-07-29,Malware,Medium,Moderate,Investigating,No,LOC0072
+INC00648,2025-06-27,Ransomware,Medium,Moderate,Resolved,No,LOC0024
+INC00649,2023-07-31,Phishing,Medium,Low,Open,No,LOC0098
+INC00650,2024-06-17,Unauthorized Access,Medium,Low,Resolved,No,LOC0030
+INC00651,2026-03-21,Data Breach,Medium,Severe,Resolved,Yes,LOC0055
+INC00652,2026-06-17,Web Attack,Low,Moderate,Resolved,No,LOC0050
+INC00653,2026-05-08,DDoS,Critical,Low,Investigating,Yes,LOC0070
+INC00654,2024-12-10,Insider Threat,High,Severe,Resolved,No,LOC0091
+INC00655,2023-09-14,Phishing,Low,Low,Investigating,No,LOC0040
+INC00656,2025-12-07,Insider Threat,High,Moderate,Resolved,Yes,LOC0039
+INC00657,2025-10-20,Unauthorized Access,Critical,Significant,Investigating,Yes,LOC0076
+INC00658,2026-06-18,Insider Threat,Medium,Severe,Resolved,No,LOC0096
+INC00659,2025-04-11,Insider Threat,Low,Significant,Resolved,No,LOC0091
+INC00660,2023-06-30,Unauthorized Access,Low,Moderate,Investigating,No,LOC0076
+INC00661,2024-10-04,Ransomware,Low,Severe,Investigating,No,LOC0071
+INC00662,2024-07-26,Unauthorized Access,High,Low,Resolved,No,LOC0077
+INC00663,2025-12-12,Insider Threat,Critical,Severe,Open,No,LOC0094
+INC00664,2024-05-16,Web Attack,Low,Severe,Investigating,Yes,LOC0002
+INC00665,2024-02-24,Web Attack,High,Severe,Contained,No,LOC0059
+INC00666,2023-04-13,Phishing,Low,Moderate,Resolved,No,LOC0004
+INC00667,2025-12-02,Unauthorized Access,High,Low,Resolved,No,LOC0058
+INC00668,2025-08-22,Malware,High,Significant,Contained,No,LOC0040
+INC00669,2023-02-22,Data Breach,Medium,Moderate,Resolved,Yes,LOC0031
+INC00670,2024-07-07,Web Attack,Low,Moderate,Contained,Yes,LOC0090
+INC00671,2024-09-04,Malware,High,Severe,Contained,Yes,LOC0071
+INC00672,2024-08-22,Data Breach,Critical,Significant,Contained,Yes,LOC0057
+INC00673,2026-03-19,Web Attack,Medium,Moderate,Investigating,No,LOC0089
+INC00674,2023-07-12,Insider Threat,Medium,Moderate,Investigating,Yes,LOC0010
+INC00675,2023-08-20,DDoS,Low,Low,Resolved,No,LOC0065
+INC00676,2023-11-08,Malware,High,Moderate,Open,No,LOC0016
+INC00677,2026-03-04,Web Attack,High,Low,Resolved,No,LOC0024
+INC00678,2026-04-16,Web Attack,High,Significant,Investigating,No,LOC0019
+INC00679,2023-02-27,Unauthorized Access,High,Significant,Contained,No,LOC0055
+INC00680,2025-03-18,Web Attack,Critical,Significant,Investigating,Yes,LOC0063
+INC00681,2023-10-25,Malware,High,Moderate,Resolved,No,LOC0076
+INC00682,2023-09-03,Unauthorized Access,Medium,Significant,Resolved,No,LOC0045
+INC00683,2024-01-08,Malware,High,Significant,Contained,No,LOC0094
+INC00684,2023-09-06,Web Attack,Medium,Severe,Investigating,No,LOC0038
+INC00685,2024-09-17,Data Breach,Medium,Significant,Investigating,No,LOC0016
+INC00686,2026-06-25,Web Attack,Critical,Significant,Resolved,No,LOC0004
+INC00687,2025-01-18,Unauthorized Access,High,Moderate,Investigating,No,LOC0013
+INC00688,2025-07-12,Malware,Critical,Moderate,Resolved,No,LOC0045
+INC00689,2024-09-21,Malware,Medium,Severe,Investigating,No,LOC0042
+INC00690,2023-01-18,Ransomware,High,Moderate,Investigating,No,LOC0086
+INC00691,2023-04-18,Data Breach,Medium,Moderate,Resolved,No,LOC0013
+INC00692,2023-12-10,Phishing,Low,Moderate,Contained,No,LOC0027
+INC00693,2023-11-08,Insider Threat,Medium,Moderate,Open,No,LOC0099
+INC00694,2025-12-09,Phishing,High,Significant,Resolved,No,LOC0003
+INC00695,2025-12-13,DDoS,Low,Significant,Investigating,Yes,LOC0043
+INC00696,2025-12-26,Phishing,Critical,Moderate,Contained,No,LOC0020
+INC00697,2025-03-25,DDoS,Low,Moderate,Contained,No,LOC0054
+INC00698,2024-12-11,DDoS,Medium,Severe,Contained,No,LOC0098
+INC00699,2025-04-08,Malware,High,Moderate,Resolved,No,LOC0023
+INC00700,2024-06-03,Unauthorized Access,Low,Severe,Open,No,LOC0038
+INC00701,2025-05-05,Insider Threat,Critical,Moderate,Resolved,No,LOC0045
+INC00702,2025-10-11,Web Attack,High,Significant,Resolved,Yes,LOC0080
+INC00703,2025-09-01,Ransomware,Low,Significant,Resolved,Yes,LOC0099
+INC00704,2025-02-22,Web Attack,High,Significant,Resolved,No,LOC0010
+INC00705,2023-03-16,Web Attack,High,Low,Resolved,Yes,LOC0049
+INC00706,2025-07-14,Web Attack,High,Severe,Resolved,No,LOC0076
+INC00707,2024-04-13,Ransomware,Critical,Significant,Contained,Yes,LOC0001
+INC00708,2025-08-07,Insider Threat,High,Significant,Contained,No,LOC0081
+INC00709,2024-11-19,Unauthorized Access,High,Moderate,Resolved,No,LOC0025
+INC00710,2026-01-30,Malware,Medium,Low,Contained,No,LOC0052
+INC00711,2024-03-08,Ransomware,High,Moderate,Resolved,No,LOC0098
+INC00712,2026-04-04,Data Breach,Critical,Moderate,Open,No,LOC0064
+INC00713,2025-12-14,Phishing,High,Moderate,Resolved,No,LOC0099
+INC00714,2024-02-27,DDoS,High,Significant,Investigating,No,LOC0061
+INC00715,2024-09-08,Insider Threat,Medium,Moderate,Resolved,Yes,LOC0022
+INC00716,2024-11-09,Phishing,High,Low,Investigating,Yes,LOC0070
+INC00717,2025-09-08,DDoS,Critical,Low,Investigating,No,LOC0062
+INC00718,2025-05-30,Phishing,Low,Moderate,Resolved,No,LOC0032
+INC00719,2025-12-24,Unauthorized Access,Medium,Moderate,Resolved,No,LOC0008
+INC00720,2024-04-17,Phishing,High,Significant,Resolved,No,LOC0065
+INC00721,2024-10-06,Web Attack,Medium,Low,Resolved,No,LOC0058
+INC00722,2024-07-04,Malware,High,Severe,Investigating,No,LOC0078
+INC00723,2026-03-07,Web Attack,Low,Moderate,Resolved,No,LOC0013
+INC00724,2024-01-25,Insider Threat,Medium,Low,Contained,No,LOC0054
+INC00725,2025-01-19,Insider Threat,High,Severe,Contained,No,LOC0082
+INC00726,2023-06-03,Insider Threat,High,Moderate,Contained,No,LOC0090
+INC00727,2025-12-21,Phishing,High,Moderate,Open,No,LOC0094
+INC00728,2024-05-05,Web Attack,High,Severe,Resolved,No,LOC0022
+INC00729,2024-03-10,Unauthorized Access,High,Severe,Resolved,Yes,LOC0018
+INC00730,2025-01-14,Web Attack,High,Significant,Investigating,No,LOC0058
+INC00731,2024-09-28,Web Attack,High,Low,Resolved,No,LOC0047
+INC00732,2025-12-18,Unauthorized Access,High,Significant,Contained,No,LOC0024
+INC00733,2024-11-09,Ransomware,High,Severe,Investigating,Yes,LOC0011
+INC00734,2024-10-22,Malware,Low,Severe,Resolved,No,LOC0015
+INC00735,2023-05-15,Malware,Medium,Low,Investigating,No,LOC0034
+INC00736,2023-01-29,DDoS,High,Moderate,Open,No,LOC0074
+INC00737,2026-06-28,Insider Threat,Critical,Moderate,Resolved,No,LOC0007
+INC00738,2026-03-17,Unauthorized Access,High,Low,Open,Yes,LOC0011
+INC00739,2025-03-14,DDoS,Low,Significant,Open,No,LOC0027
+INC00740,2025-03-16,Phishing,High,Moderate,Resolved,No,LOC0088
+INC00741,2024-05-14,Unauthorized Access,Medium,Moderate,Open,Yes,LOC0100
+INC00742,2023-08-15,Data Breach,High,Low,Resolved,No,LOC0045
+INC00743,2023-01-11,Web Attack,Critical,Moderate,Resolved,No,LOC0005
+INC00744,2024-03-08,Data Breach,High,Low,Investigating,Yes,LOC0002
+INC00745,2024-02-09,Unauthorized Access,High,Moderate,Contained,No,LOC0086
+INC00746,2023-09-02,Web Attack,Medium,Low,Open,No,LOC0045
+INC00747,2023-11-27,DDoS,Medium,Severe,Resolved,No,LOC0008
+INC00748,2023-02-01,Web Attack,Critical,Low,Open,No,LOC0084
+INC00749,2025-02-15,Ransomware,High,Moderate,Resolved,Yes,LOC0053
+INC00750,2026-03-30,Phishing,Medium,Moderate,Investigating,No,LOC0035
+INC00751,2025-06-01,DDoS,Medium,Low,Resolved,No,LOC0046
+INC00752,2024-07-26,Phishing,Low,Moderate,Investigating,Yes,LOC0023
+INC00753,2024-06-20,Malware,Low,Low,Investigating,No,LOC0094
+INC00754,2024-01-28,Web Attack,Medium,Low,Contained,Yes,LOC0079
+INC00755,2023-07-01,Insider Threat,Medium,Moderate,Resolved,No,LOC0020
+INC00756,2025-02-03,Phishing,Critical,Significant,Resolved,No,LOC0074
+INC00757,2024-12-24,Insider Threat,Medium,Low,Open,No,LOC0018
+INC00758,2023-01-10,Malware,Medium,Moderate,Open,No,LOC0046
+INC00759,2024-06-14,Ransomware,Low,Significant,Contained,Yes,LOC0075
+INC00760,2023-12-22,Data Breach,Medium,Moderate,Contained,No,LOC0004
+INC00761,2023-08-06,Ransomware,High,Moderate,Resolved,Yes,LOC0073
+INC00762,2025-06-16,Data Breach,Medium,Low,Resolved,No,LOC0023
+INC00763,2024-11-02,Insider Threat,High,Moderate,Resolved,No,LOC0070
+INC00764,2025-03-20,Malware,High,Moderate,Investigating,Yes,LOC0050
+INC00765,2025-06-30,Malware,Low,Severe,Contained,Yes,LOC0003
+INC00766,2026-06-07,Web Attack,High,Severe,Resolved,Yes,LOC0077
+INC00767,2025-10-22,Unauthorized Access,Critical,Severe,Investigating,Yes,LOC0026
+INC00768,2025-03-03,Unauthorized Access,Medium,Moderate,Resolved,Yes,LOC0096
+INC00769,2026-01-27,DDoS,Low,Low,Investigating,No,LOC0084
+INC00770,2024-09-01,DDoS,Critical,Moderate,Investigating,No,LOC0020
+INC00771,2026-06-11,Data Breach,Critical,Moderate,Resolved,No,LOC0061
+INC00772,2025-08-30,Unauthorized Access,High,Low,Investigating,No,LOC0037
+INC00773,2025-04-11,Phishing,High,Low,Resolved,No,LOC0061
+INC00774,2026-02-27,Data Breach,Medium,Moderate,Investigating,No,LOC0056
+INC00775,2024-10-19,Data Breach,High,Moderate,Open,No,LOC0030
+INC00776,2025-07-09,Malware,Medium,Moderate,Investigating,No,LOC0066
+INC00777,2023-12-30,DDoS,Low,Significant,Investigating,No,LOC0027
+INC00778,2026-05-15,Insider Threat,High,Moderate,Contained,No,LOC0091
+INC00779,2025-03-07,Unauthorized Access,Critical,Severe,Open,No,LOC0095
+INC00780,2025-09-25,Phishing,Critical,Moderate,Resolved,No,LOC0017
+INC00781,2024-08-11,Malware,Medium,Significant,Resolved,No,LOC0073
+INC00782,2026-01-11,Unauthorized Access,Low,Moderate,Contained,No,LOC0093
+INC00783,2023-04-05,DDoS,Critical,Moderate,Investigating,No,LOC0013
+INC00784,2023-05-26,Web Attack,Critical,Low,Contained,Yes,LOC0074
+INC00785,2024-10-09,Unauthorized Access,High,Low,Resolved,Yes,LOC0094
+INC00786,2025-07-24,Web Attack,High,Significant,Resolved,No,LOC0023
+INC00787,2025-10-30,Phishing,Medium,Moderate,Open,Yes,LOC0059
+INC00788,2024-07-15,DDoS,Medium,Low,Contained,No,LOC0080
+INC00789,2025-04-09,Phishing,Low,Severe,Contained,Yes,LOC0034
+INC00790,2024-12-07,Unauthorized Access,Low,Low,Investigating,No,LOC0024
+INC00791,2026-05-12,Phishing,Medium,Significant,Open,Yes,LOC0040
+INC00792,2025-04-15,DDoS,Critical,Significant,Resolved,No,LOC0034
+INC00793,2024-06-16,Ransomware,Low,Moderate,Investigating,No,LOC0073
+INC00794,2026-05-23,Phishing,Medium,Moderate,Investigating,Yes,LOC0038
+INC00795,2023-05-17,Malware,High,Low,Investigating,Yes,LOC0038
+INC00796,2026-06-11,Unauthorized Access,Medium,Significant,Resolved,No,LOC0095
+INC00797,2023-07-16,Web Attack,Low,Moderate,Contained,No,LOC0058
+INC00798,2024-01-04,Phishing,High,Moderate,Investigating,No,LOC0093
+INC00799,2025-11-15,DDoS,Medium,Moderate,Contained,No,LOC0072
+INC00800,2025-07-26,Phishing,High,Severe,Resolved,No,LOC0089
+INC00801,2026-05-24,Insider Threat,Critical,Significant,Investigating,Yes,LOC0020
+INC00802,2025-08-15,DDoS,Low,Severe,Resolved,No,LOC0094
+INC00803,2025-03-24,Web Attack,Critical,Significant,Investigating,No,LOC0095
+INC00804,2024-03-18,Phishing,Critical,Significant,Investigating,Yes,LOC0005
+INC00805,2023-01-07,Malware,Critical,Moderate,Resolved,No,LOC0036
+INC00806,2023-06-08,Unauthorized Access,High,Severe,Resolved,No,LOC0042
+INC00807,2024-01-16,Data Breach,High,Moderate,Contained,Yes,LOC0042
+INC00808,2023-02-22,Web Attack,High,Moderate,Resolved,Yes,LOC0078
+INC00809,2024-10-10,Insider Threat,High,Significant,Contained,Yes,LOC0070
+INC00810,2025-09-19,Web Attack,Low,Significant,Contained,Yes,LOC0022
+INC00811,2026-05-15,Data Breach,Critical,Low,Resolved,Yes,LOC0061
+INC00812,2024-09-17,Ransomware,High,Moderate,Resolved,No,LOC0098
+INC00813,2026-01-22,DDoS,High,Moderate,Investigating,Yes,LOC0045
+INC00814,2026-06-12,Phishing,Medium,Severe,Resolved,No,LOC0093
+INC00815,2026-01-03,DDoS,Low,Moderate,Contained,No,LOC0065
+INC00816,2024-08-16,Ransomware,Medium,Significant,Open,No,LOC0093
+INC00817,2024-02-20,Malware,Medium,Moderate,Resolved,No,LOC0091
+INC00818,2026-06-02,Phishing,Medium,Significant,Resolved,Yes,LOC0002
+INC00819,2023-11-05,Unauthorized Access,Medium,Low,Resolved,Yes,LOC0081
+INC00820,2024-06-09,Ransomware,Medium,Severe,Resolved,Yes,LOC0019
+INC00821,2023-04-05,Web Attack,High,Moderate,Resolved,No,LOC0083
+INC00822,2025-10-10,DDoS,Medium,Moderate,Investigating,No,LOC0081
+INC00823,2025-04-09,Web Attack,Critical,Moderate,Resolved,No,LOC0026
+INC00824,2023-04-19,Data Breach,Low,Moderate,Resolved,No,LOC0007
+INC00825,2023-10-11,Malware,Medium,Moderate,Resolved,No,LOC0042
+INC00826,2024-12-10,Phishing,Medium,Significant,Contained,Yes,LOC0031
+INC00827,2024-11-21,Data Breach,High,Severe,Investigating,No,LOC0056
+INC00828,2025-10-21,Unauthorized Access,Medium,Significant,Open,Yes,LOC0009
+INC00829,2023-12-06,Ransomware,High,Significant,Contained,No,LOC0005
+INC00830,2026-03-26,Unauthorized Access,Critical,Moderate,Investigating,No,LOC0044
+INC00831,2024-07-21,Web Attack,Medium,Significant,Resolved,Yes,LOC0077
+INC00832,2025-11-16,DDoS,High,Severe,Resolved,No,LOC0032
+INC00833,2023-11-01,Malware,Low,Moderate,Investigating,No,LOC0033
+INC00834,2023-02-17,Ransomware,Medium,Severe,Investigating,Yes,LOC0017
+INC00835,2023-03-12,Web Attack,Medium,Moderate,Resolved,No,LOC0029
+INC00836,2024-04-20,Insider Threat,Low,Significant,Investigating,No,LOC0030
+INC00837,2026-05-02,Insider Threat,High,Severe,Resolved,Yes,LOC0026
+INC00838,2023-03-04,Web Attack,High,Significant,Contained,Yes,LOC0035
+INC00839,2023-05-20,Malware,High,Low,Open,Yes,LOC0029
+INC00840,2026-04-04,Ransomware,Medium,Significant,Investigating,Yes,LOC0069
+INC00841,2025-05-12,Malware,High,Low,Resolved,No,LOC0034
+INC00842,2025-08-31,Malware,Medium,Significant,Investigating,No,LOC0076
+INC00843,2025-06-29,Insider Threat,Low,Moderate,Resolved,No,LOC0061
+INC00844,2025-04-19,Web Attack,Low,Significant,Investigating,No,LOC0065
+INC00845,2025-09-15,Phishing,High,Severe,Investigating,No,LOC0059
+INC00846,2023-01-11,Data Breach,Critical,Moderate,Resolved,No,LOC0093
+INC00847,2026-01-10,Unauthorized Access,Low,Moderate,Investigating,No,LOC0026
+INC00848,2025-08-02,Malware,High,Significant,Open,Yes,LOC0099
+INC00849,2025-08-02,Web Attack,High,Moderate,Contained,Yes,LOC0021
+INC00850,2024-05-17,Insider Threat,Critical,Low,Resolved,No,LOC0014
+INC00851,2025-10-19,Unauthorized Access,High,Low,Investigating,No,LOC0083
+INC00852,2024-05-02,Data Breach,High,Moderate,Investigating,No,LOC0090
+INC00853,2023-03-04,DDoS,High,Significant,Resolved,Yes,LOC0010
+INC00854,2026-03-05,Insider Threat,Critical,Significant,Resolved,No,LOC0060
+INC00855,2023-10-27,DDoS,Low,Low,Resolved,Yes,LOC0052
+INC00856,2023-05-11,Web Attack,Critical,Moderate,Resolved,No,LOC0023
+INC00857,2025-03-05,Malware,Low,Moderate,Resolved,No,LOC0053
+INC00858,2023-10-26,Phishing,Critical,Moderate,Contained,No,LOC0069
+INC00859,2025-12-31,Web Attack,Low,Significant,Investigating,No,LOC0058
+INC00860,2024-07-20,Ransomware,Medium,Moderate,Resolved,Yes,LOC0052
+INC00861,2023-01-06,Ransomware,Low,Significant,Resolved,No,LOC0089
+INC00862,2026-04-30,Insider Threat,Medium,Severe,Resolved,No,LOC0023
+INC00863,2024-10-19,Phishing,Medium,Significant,Resolved,No,LOC0063
+INC00864,2023-12-02,Unauthorized Access,Low,Significant,Investigating,Yes,LOC0032
+INC00865,2025-05-14,Ransomware,Medium,Low,Contained,Yes,LOC0098
+INC00866,2024-11-08,Phishing,Medium,Low,Resolved,No,LOC0026
+INC00867,2023-02-07,Web Attack,High,Low,Contained,No,LOC0088
+INC00868,2025-08-28,Phishing,Critical,Significant,Resolved,No,LOC0064
+INC00869,2024-05-27,Malware,High,Severe,Resolved,No,LOC0022
+INC00870,2025-06-12,Data Breach,Low,Moderate,Open,No,LOC0076
+INC00871,2026-02-17,Insider Threat,Medium,Moderate,Resolved,No,LOC0025
+INC00872,2025-02-18,Phishing,Critical,Moderate,Resolved,Yes,LOC0027
+INC00873,2025-05-07,Data Breach,Low,Significant,Resolved,No,LOC0035
+INC00874,2023-11-22,Unauthorized Access,Medium,Significant,Contained,No,LOC0069
+INC00875,2023-10-31,Insider Threat,Critical,Significant,Resolved,Yes,LOC0040
+INC00876,2024-06-13,Phishing,Critical,Severe,Contained,Yes,LOC0057
+INC00877,2025-12-25,Web Attack,Medium,Moderate,Contained,No,LOC0056
+INC00878,2024-10-31,Unauthorized Access,High,Significant,Open,Yes,LOC0020
+INC00879,2024-03-20,Insider Threat,Medium,Significant,Resolved,No,LOC0024
+INC00880,2025-09-22,Ransomware,High,Moderate,Resolved,Yes,LOC0031
+INC00881,2025-12-25,Web Attack,Low,Severe,Resolved,Yes,LOC0023
+INC00882,2026-02-26,Data Breach,Low,Low,Resolved,Yes,LOC0092
+INC00883,2024-01-17,Phishing,High,Significant,Open,No,LOC0039
+INC00884,2025-06-25,Web Attack,Medium,Significant,Resolved,No,LOC0041
+INC00885,2025-01-23,Insider Threat,High,Severe,Contained,No,LOC0068
+INC00886,2024-07-27,Ransomware,Medium,Moderate,Resolved,Yes,LOC0079
+INC00887,2024-05-21,Unauthorized Access,Critical,Moderate,Open,No,LOC0069
+INC00888,2023-05-27,DDoS,High,Significant,Resolved,No,LOC0056
+INC00889,2023-12-17,Unauthorized Access,Medium,Significant,Investigating,No,LOC0098
+INC00890,2024-12-02,Web Attack,High,Moderate,Resolved,No,LOC0090
+INC00891,2026-02-06,Web Attack,Medium,Significant,Resolved,No,LOC0021
+INC00892,2026-01-11,Phishing,Medium,Moderate,Investigating,No,LOC0017
+INC00893,2023-08-28,Web Attack,Medium,Significant,Contained,No,LOC0040
+INC00894,2025-05-17,DDoS,Critical,Severe,Resolved,No,LOC0084
+INC00895,2023-04-19,Data Breach,Critical,Moderate,Resolved,Yes,LOC0097
+INC00896,2025-05-11,Insider Threat,Critical,Moderate,Open,No,LOC0071
+INC00897,2024-03-12,DDoS,Critical,Severe,Contained,No,LOC0070
+INC00898,2024-07-28,DDoS,Critical,Significant,Investigating,Yes,LOC0024
+INC00899,2025-07-05,DDoS,Medium,Severe,Resolved,No,LOC0060
+INC00900,2024-06-26,Insider Threat,Critical,Moderate,Resolved,No,LOC0019
+INC00901,2025-10-28,DDoS,High,Severe,Open,Yes,LOC0054
+INC00902,2024-11-12,Ransomware,Medium,Low,Resolved,No,LOC0020
+INC00903,2026-06-29,Ransomware,High,Moderate,Resolved,Yes,LOC0008
+INC00904,2025-03-26,Phishing,Medium,Moderate,Resolved,No,LOC0097
+INC00905,2024-01-14,DDoS,Medium,Significant,Open,No,LOC0090
+INC00906,2025-09-17,Malware,Medium,Severe,Investigating,Yes,LOC0069
+INC00907,2024-06-04,Malware,Low,Significant,Contained,No,LOC0063
+INC00908,2024-11-13,Data Breach,Medium,Significant,Investigating,No,LOC0024
+INC00909,2023-06-24,Malware,Critical,Moderate,Contained,Yes,LOC0058
+INC00910,2023-06-02,Unauthorized Access,High,Moderate,Open,No,LOC0075
+INC00911,2025-01-04,Insider Threat,High,Moderate,Open,Yes,LOC0054
+INC00912,2023-08-27,Data Breach,Medium,Low,Resolved,No,LOC0029
+INC00913,2026-06-27,DDoS,Medium,Moderate,Investigating,Yes,LOC0040
+INC00914,2025-12-28,Phishing,Medium,Severe,Resolved,Yes,LOC0085
+INC00915,2025-06-14,Web Attack,Critical,Significant,Open,No,LOC0026
+INC00916,2025-07-27,Insider Threat,Medium,Significant,Resolved,Yes,LOC0097
+INC00917,2025-01-30,Unauthorized Access,High,Moderate,Contained,No,LOC0076
+INC00918,2023-03-18,Malware,High,Moderate,Resolved,No,LOC0090
+INC00919,2024-05-16,Malware,High,Low,Resolved,No,LOC0051
+INC00920,2024-09-25,Ransomware,Critical,Moderate,Contained,Yes,LOC0023
+INC00921,2026-03-14,Phishing,Medium,Moderate,Resolved,No,LOC0004
+INC00922,2023-10-08,Insider Threat,Critical,Moderate,Investigating,No,LOC0054
+INC00923,2024-09-26,Phishing,High,Low,Resolved,No,LOC0040
+INC00924,2024-03-15,Ransomware,High,Significant,Open,No,LOC0012
+INC00925,2023-06-21,Web Attack,High,Moderate,Contained,No,LOC0093
+INC00926,2023-05-12,Insider Threat,Critical,Moderate,Investigating,No,LOC0098
+INC00927,2024-04-11,Phishing,Critical,Moderate,Resolved,No,LOC0038
+INC00928,2023-04-16,DDoS,Medium,Significant,Contained,No,LOC0067
+INC00929,2023-03-27,Unauthorized Access,High,Moderate,Resolved,No,LOC0042
+INC00930,2024-03-24,Data Breach,High,Moderate,Contained,No,LOC0050
+INC00931,2023-09-15,Web Attack,Medium,Significant,Investigating,No,LOC0063
+INC00932,2024-12-09,Insider Threat,Critical,Low,Investigating,No,LOC0042
+INC00933,2023-01-23,Web Attack,Medium,Severe,Resolved,No,LOC0081
+INC00934,2024-01-21,Malware,High,Low,Resolved,No,LOC0019
+INC00935,2024-08-01,Phishing,Low,Moderate,Investigating,Yes,LOC0067
+INC00936,2026-05-14,Unauthorized Access,Medium,Moderate,Resolved,Yes,LOC0099
+INC00937,2025-03-21,Malware,Critical,Moderate,Contained,No,LOC0086
+INC00938,2026-01-29,Ransomware,Medium,Moderate,Open,No,LOC0005
+INC00939,2024-03-14,Phishing,Medium,Severe,Contained,No,LOC0012
+INC00940,2024-07-28,Web Attack,Medium,Moderate,Investigating,No,LOC0063
+INC00941,2024-06-20,Malware,Medium,Significant,Investigating,No,LOC0093
+INC00942,2026-02-07,Phishing,High,Moderate,Resolved,No,LOC0085
+INC00943,2026-05-09,Phishing,Critical,Low,Investigating,No,LOC0091
+INC00944,2026-05-13,Phishing,Low,Moderate,Resolved,Yes,LOC0015
+INC00945,2025-08-18,Unauthorized Access,High,Significant,Resolved,No,LOC0052
+INC00946,2024-10-04,Ransomware,Medium,Moderate,Resolved,Yes,LOC0073
+INC00947,2024-11-21,Web Attack,High,Severe,Resolved,No,LOC0063
+INC00948,2026-06-06,Ransomware,Medium,Significant,Resolved,No,LOC0078
+INC00949,2023-12-30,Unauthorized Access,Medium,Severe,Contained,No,LOC0022
+INC00950,2024-03-18,Data Breach,Medium,Moderate,Resolved,No,LOC0046
+INC00951,2026-02-19,Data Breach,High,Significant,Contained,No,LOC0045
+INC00952,2024-05-08,Insider Threat,Medium,Significant,Resolved,Yes,LOC0094
+INC00953,2023-10-28,Phishing,Medium,Significant,Investigating,Yes,LOC0021
+INC00954,2024-12-16,Unauthorized Access,High,Severe,Resolved,No,LOC0033
+INC00955,2024-02-20,Insider Threat,High,Significant,Resolved,No,LOC0003
+INC00956,2026-02-11,Insider Threat,Medium,Severe,Contained,No,LOC0016
+INC00957,2026-03-06,Unauthorized Access,High,Significant,Resolved,Yes,LOC0099
+INC00958,2024-01-26,Data Breach,Critical,Low,Contained,No,LOC0085
+INC00959,2024-11-07,Insider Threat,Low,Significant,Investigating,No,LOC0026
+INC00960,2026-06-10,Unauthorized Access,High,Moderate,Resolved,No,LOC0071
+INC00961,2025-08-05,Web Attack,Medium,Severe,Contained,Yes,LOC0060
+INC00962,2023-10-03,Phishing,High,Significant,Open,No,LOC0091
+INC00963,2025-01-24,Ransomware,Medium,Low,Open,Yes,LOC0031
+INC00964,2025-03-02,Malware,High,Low,Investigating,No,LOC0100
+INC00965,2025-04-14,Malware,Medium,Low,Resolved,Yes,LOC0038
+INC00966,2023-02-01,DDoS,Medium,Moderate,Resolved,No,LOC0072
+INC00967,2024-01-18,Phishing,Critical,Low,Resolved,No,LOC0040
+INC00968,2025-12-27,DDoS,Medium,Significant,Open,Yes,LOC0068
+INC00969,2023-11-05,DDoS,Critical,Significant,Contained,No,LOC0034
+INC00970,2024-01-18,Unauthorized Access,Critical,Severe,Resolved,No,LOC0085
+INC00971,2024-02-16,Web Attack,Critical,Moderate,Resolved,No,LOC0064
+INC00972,2023-08-15,Insider Threat,Low,Moderate,Investigating,No,LOC0029
+INC00973,2023-07-18,DDoS,High,Low,Investigating,Yes,LOC0097
+INC00974,2024-03-19,Ransomware,Low,Severe,Resolved,No,LOC0071
+INC00975,2026-01-21,Insider Threat,Medium,Low,Resolved,No,LOC0043
+INC00976,2023-01-02,Malware,Critical,Low,Open,No,LOC0014
+INC00977,2023-12-28,Unauthorized Access,High,Moderate,Resolved,No,LOC0098
+INC00978,2023-03-19,DDoS,High,Significant,Open,No,LOC0076
+INC00979,2024-12-18,Phishing,Medium,Low,Open,Yes,LOC0067
+INC00980,2023-11-17,Unauthorized Access,High,Significant,Resolved,No,LOC0084
+INC00981,2025-10-08,Ransomware,High,Significant,Contained,No,LOC0061
+INC00982,2025-01-17,Phishing,Medium,Significant,Contained,No,LOC0024
+INC00983,2025-09-27,Data Breach,Critical,Moderate,Resolved,No,LOC0024
+INC00984,2025-03-21,Phishing,Medium,Low,Resolved,Yes,LOC0008
+INC00985,2024-07-13,Data Breach,Low,Moderate,Open,Yes,LOC0007
+INC00986,2026-01-04,Phishing,High,Moderate,Resolved,No,LOC0073
+INC00987,2024-08-31,DDoS,Critical,Significant,Resolved,No,LOC0086
+INC00988,2026-04-28,Insider Threat,Medium,Moderate,Resolved,No,LOC0017
+INC00989,2026-06-24,Phishing,Medium,Moderate,Resolved,No,LOC0058
+INC00990,2025-01-22,Insider Threat,Low,Low,Resolved,No,LOC0013
+INC00991,2025-05-11,Data Breach,Critical,Significant,Open,No,LOC0042
+INC00992,2023-11-23,Web Attack,Medium,Moderate,Investigating,Yes,LOC0080
+INC00993,2025-11-06,Phishing,Medium,Significant,Resolved,No,LOC0082
+INC00994,2025-05-07,Data Breach,Critical,Low,Resolved,No,LOC0095
+INC00995,2026-02-26,Web Attack,Low,Severe,Open,Yes,LOC0032
+INC00996,2023-12-07,Insider Threat,High,Significant,Open,Yes,LOC0095
+INC00997,2025-10-02,Phishing,Medium,Moderate,Resolved,Yes,LOC0079
+INC00998,2024-08-23,Insider Threat,High,Low,Open,Yes,LOC0034
+INC00999,2023-08-25,Malware,Medium,Moderate,Open,No,LOC0033
+INC01000,2023-08-07,Unauthorized Access,Medium,Low,Resolved,Yes,LOC0011
+INC01001,2024-12-18,DDoS,Low,Moderate,Resolved,No,LOC0093
+INC01002,2023-05-11,Unauthorized Access,High,Severe,Resolved,Yes,LOC0021
+INC01003,2024-06-29,Unauthorized Access,High,Significant,Resolved,Yes,LOC0027
+INC01004,2025-04-13,Malware,Low,Low,Investigating,Yes,LOC0042
+INC01005,2024-02-12,Unauthorized Access,Medium,Significant,Resolved,Yes,LOC0014
+INC01006,2026-05-04,Web Attack,Critical,Moderate,Investigating,No,LOC0081
+INC01007,2025-09-22,DDoS,Low,Severe,Investigating,Yes,LOC0070
+INC01008,2024-10-16,Ransomware,Medium,Low,Resolved,Yes,LOC0016
+INC01009,2026-04-08,Web Attack,High,Significant,Resolved,Yes,LOC0017
+INC01010,2024-07-06,Malware,Medium,Significant,Resolved,No,LOC0003
+INC01011,2023-06-28,DDoS,Medium,Low,Investigating,No,LOC0095
+INC01012,2023-02-15,Unauthorized Access,Medium,Low,Resolved,No,LOC0044
+INC01013,2026-04-12,DDoS,Medium,Moderate,Resolved,No,LOC0066
+INC01014,2026-05-10,Web Attack,High,Severe,Resolved,No,LOC0015
+INC01015,2025-08-02,DDoS,High,Significant,Resolved,No,LOC0024
+INC01016,2023-05-12,Web Attack,High,Significant,Contained,No,LOC0055
+INC01017,2024-01-10,Malware,Low,Significant,Resolved,No,LOC0021
+INC01018,2023-02-22,Data Breach,Critical,Significant,Resolved,Yes,LOC0062
+INC01019,2023-03-07,Unauthorized Access,Low,Moderate,Resolved,No,LOC0093
+INC01020,2023-11-11,Phishing,High,Moderate,Resolved,No,LOC0031
+INC01021,2024-12-31,Phishing,Medium,Significant,Resolved,No,LOC0061
+INC01022,2023-03-25,Data Breach,High,Moderate,Open,No,LOC0092
+INC01023,2026-06-11,Data Breach,Medium,Severe,Investigating,No,LOC0090
+INC01024,2024-08-04,Unauthorized Access,Medium,Low,Resolved,Yes,LOC0001
+INC01025,2023-12-03,Malware,Medium,Moderate,Resolved,No,LOC0012
+INC01026,2024-10-21,Unauthorized Access,Low,Significant,Resolved,No,LOC0099
+INC01027,2025-10-06,Web Attack,Medium,Moderate,Open,No,LOC0093
+INC01028,2024-02-04,Malware,High,Low,Contained,No,LOC0033
+INC01029,2023-03-02,DDoS,Critical,Moderate,Resolved,No,LOC0053
+INC01030,2023-03-07,DDoS,Low,Significant,Resolved,No,LOC0058
+INC01031,2025-12-23,Web Attack,Critical,Severe,Open,No,LOC0067
+INC01032,2023-05-23,Ransomware,High,Low,Resolved,Yes,LOC0076
+INC01033,2025-03-22,DDoS,Critical,Low,Investigating,No,LOC0038
+INC01034,2024-05-06,Data Breach,High,Moderate,Contained,No,LOC0089
+INC01035,2025-09-19,Malware,High,Severe,Investigating,No,LOC0006
+INC01036,2023-03-19,Insider Threat,High,Moderate,Open,Yes,LOC0004
+INC01037,2026-02-20,Insider Threat,High,Severe,Open,No,LOC0096
+INC01038,2025-06-10,Data Breach,Critical,Severe,Resolved,No,LOC0018
+INC01039,2024-07-27,Data Breach,Low,Moderate,Resolved,No,LOC0100
+INC01040,2023-09-22,Data Breach,Medium,Significant,Resolved,Yes,LOC0029
+INC01041,2026-06-01,Insider Threat,Low,Significant,Contained,No,LOC0037
+INC01042,2024-01-21,Web Attack,Critical,Moderate,Contained,Yes,LOC0003
+INC01043,2024-09-18,DDoS,Medium,Moderate,Contained,No,LOC0095
+INC01044,2024-05-18,DDoS,High,Significant,Resolved,No,LOC0036
+INC01045,2023-10-22,Data Breach,Critical,Significant,Contained,No,LOC0017
+INC01046,2024-06-16,Phishing,Critical,Significant,Resolved,No,LOC0049
+INC01047,2023-07-13,Insider Threat,Low,Severe,Resolved,No,LOC0016
+INC01048,2023-01-03,Insider Threat,High,Moderate,Resolved,No,LOC0079
+INC01049,2024-01-06,Data Breach,Critical,Significant,Investigating,Yes,LOC0008
+INC01050,2023-05-24,Ransomware,Low,Severe,Contained,Yes,LOC0050
+INC01051,2024-06-13,Ransomware,High,Moderate,Investigating,No,LOC0040
+INC01052,2026-01-06,DDoS,Medium,Low,Open,No,LOC0004
+INC01053,2023-07-27,Data Breach,High,Moderate,Resolved,No,LOC0006
+INC01054,2023-01-02,Insider Threat,Medium,Severe,Resolved,No,LOC0052
+INC01055,2023-05-22,Data Breach,Medium,Moderate,Resolved,No,LOC0040
+INC01056,2024-10-10,Web Attack,Low,Significant,Open,No,LOC0013
+INC01057,2023-12-17,Web Attack,Low,Low,Resolved,No,LOC0014
+INC01058,2024-09-17,Data Breach,Low,Moderate,Resolved,Yes,LOC0081
+INC01059,2023-02-07,Ransomware,High,Significant,Contained,Yes,LOC0074
+INC01060,2024-03-01,Unauthorized Access,Medium,Low,Resolved,Yes,LOC0061
+INC01061,2024-06-07,DDoS,Medium,Severe,Investigating,No,LOC0084
+INC01062,2024-07-04,Data Breach,High,Low,Resolved,No,LOC0007
+INC01063,2024-12-04,Insider Threat,High,Severe,Resolved,No,LOC0069
+INC01064,2025-09-23,Ransomware,High,Moderate,Resolved,Yes,LOC0076
+INC01065,2024-08-19,Unauthorized Access,Critical,Severe,Resolved,No,LOC0021
+INC01066,2025-12-10,Malware,Medium,Significant,Contained,Yes,LOC0054
+INC01067,2024-11-07,Data Breach,Critical,Low,Resolved,No,LOC0077
+INC01068,2023-11-29,DDoS,Low,Low,Resolved,Yes,LOC0061
+INC01069,2023-10-20,DDoS,High,Low,Investigating,No,LOC0025
+INC01070,2024-02-16,Unauthorized Access,Critical,Significant,Open,Yes,LOC0067
+INC01071,2025-02-01,Phishing,Critical,Significant,Resolved,No,LOC0076
+INC01072,2023-11-06,Unauthorized Access,High,Moderate,Resolved,No,LOC0001
+INC01073,2026-03-13,Data Breach,High,Moderate,Contained,No,LOC0057
+INC01074,2024-09-04,Ransomware,Medium,Significant,Resolved,Yes,LOC0051
+INC01075,2026-01-07,Phishing,High,Significant,Resolved,No,LOC0037
+INC01076,2025-05-22,DDoS,High,Significant,Contained,No,LOC0005
+INC01077,2024-03-01,Phishing,Critical,Moderate,Contained,No,LOC0009
+INC01078,2023-10-19,Ransomware,Medium,Significant,Resolved,No,LOC0076
+INC01079,2025-08-08,Data Breach,Low,Severe,Resolved,No,LOC0083
+INC01080,2024-02-27,Malware,High,Moderate,Resolved,No,LOC0042
+INC01081,2023-11-12,Data Breach,Low,Low,Contained,No,LOC0094
+INC01082,2026-04-03,Phishing,Medium,Low,Resolved,No,LOC0093
+INC01083,2024-09-08,Web Attack,Medium,Significant,Resolved,Yes,LOC0067
+INC01084,2023-03-04,Data Breach,High,Moderate,Resolved,No,LOC0059
+INC01085,2024-09-23,Ransomware,Medium,Severe,Open,Yes,LOC0097
+INC01086,2024-08-11,Unauthorized Access,Low,Significant,Resolved,No,LOC0061
+INC01087,2026-01-08,Malware,Low,Moderate,Contained,No,LOC0094
+INC01088,2025-06-27,Malware,Critical,Significant,Open,Yes,LOC0098
+INC01089,2023-09-02,Web Attack,High,Moderate,Resolved,No,LOC0020
+INC01090,2023-07-12,Insider Threat,Low,Significant,Resolved,No,LOC0067
+INC01091,2025-02-09,Phishing,Low,Low,Contained,Yes,LOC0074
+INC01092,2023-03-02,Ransomware,High,Significant,Resolved,Yes,LOC0083
+INC01093,2024-02-12,Phishing,Medium,Severe,Investigating,No,LOC0035
+INC01094,2023-06-26,DDoS,High,Significant,Investigating,No,LOC0087
+INC01095,2023-01-27,Ransomware,Medium,Severe,Contained,No,LOC0049
+INC01096,2026-03-19,Ransomware,Critical,Moderate,Contained,No,LOC0039
+INC01097,2023-04-25,Unauthorized Access,Medium,Significant,Resolved,Yes,LOC0016
+INC01098,2023-01-12,Phishing,High,Significant,Resolved,Yes,LOC0033
+INC01099,2026-04-06,Web Attack,Low,Significant,Resolved,No,LOC0098
+INC01100,2023-08-29,Data Breach,Critical,Low,Investigating,No,LOC0072
+INC01101,2025-11-08,Insider Threat,Critical,Moderate,Contained,No,LOC0073
+INC01102,2023-02-09,Phishing,High,Significant,Investigating,No,LOC0090
+INC01103,2023-07-16,Data Breach,Medium,Low,Resolved,No,LOC0027
+INC01104,2023-05-22,Insider Threat,Medium,Significant,Investigating,No,LOC0067
+INC01105,2025-06-20,Phishing,High,Severe,Contained,Yes,LOC0038
+INC01106,2025-03-02,Insider Threat,High,Severe,Resolved,No,LOC0085
+INC01107,2024-08-30,Ransomware,Medium,Low,Resolved,Yes,LOC0043
+INC01108,2023-11-05,Insider Threat,Medium,Severe,Investigating,No,LOC0086
+INC01109,2023-04-24,DDoS,Medium,Low,Investigating,No,LOC0075
+INC01110,2024-12-27,Insider Threat,Critical,Moderate,Resolved,No,LOC0078
+INC01111,2023-10-22,Phishing,High,Severe,Resolved,No,LOC0093
+INC01112,2025-01-23,DDoS,High,Low,Open,No,LOC0080
+INC01113,2025-05-27,Ransomware,High,Low,Resolved,No,LOC0033
+INC01114,2025-12-20,Phishing,Medium,Low,Contained,No,LOC0053
+INC01115,2024-09-22,Ransomware,Medium,Moderate,Contained,Yes,LOC0048
+INC01116,2023-01-07,DDoS,Low,Significant,Investigating,No,LOC0007
+INC01117,2023-12-25,Phishing,High,Low,Contained,No,LOC0060
+INC01118,2025-12-25,Data Breach,Medium,Low,Investigating,Yes,LOC0044
+INC01119,2024-11-11,Unauthorized Access,Medium,Significant,Investigating,No,LOC0040
+INC01120,2025-03-01,Insider Threat,Medium,Moderate,Resolved,Yes,LOC0011
+INC01121,2024-08-07,Data Breach,Medium,Significant,Contained,Yes,LOC0051
+INC01122,2023-07-27,Phishing,High,Severe,Resolved,No,LOC0058
+INC01123,2026-02-19,Malware,Medium,Significant,Resolved,No,LOC0011
+INC01124,2025-09-14,DDoS,Low,Severe,Investigating,No,LOC0064
+INC01125,2026-06-24,DDoS,High,Moderate,Open,Yes,LOC0017
+INC01126,2025-12-28,Phishing,Medium,Severe,Resolved,Yes,LOC0015
+INC01127,2024-01-07,Insider Threat,Medium,Moderate,Resolved,Yes,LOC0041
+INC01128,2023-11-21,Unauthorized Access,Medium,Low,Resolved,Yes,LOC0039
+INC01129,2023-11-14,Data Breach,High,Significant,Open,No,LOC0092
+INC01130,2026-03-19,Malware,Medium,Low,Investigating,No,LOC0007
+INC01131,2024-12-12,Insider Threat,High,Severe,Open,No,LOC0035
+INC01132,2024-08-03,Phishing,Critical,Significant,Resolved,No,LOC0074
+INC01133,2026-05-21,DDoS,High,Severe,Resolved,No,LOC0025
+INC01134,2025-02-09,DDoS,Medium,Moderate,Contained,Yes,LOC0099
+INC01135,2026-03-07,Insider Threat,High,Moderate,Resolved,Yes,LOC0075
+INC01136,2026-06-11,Ransomware,Medium,Significant,Investigating,No,LOC0095
+INC01137,2023-04-12,Phishing,Medium,Moderate,Resolved,No,LOC0095
+INC01138,2024-04-06,Ransomware,High,Significant,Open,No,LOC0011
+INC01139,2025-07-26,Ransomware,Medium,Significant,Resolved,No,LOC0046
+INC01140,2025-11-04,Phishing,Low,Severe,Resolved,No,LOC0075
+INC01141,2023-07-09,Phishing,Medium,Significant,Resolved,Yes,LOC0001
+INC01142,2024-02-11,Phishing,Low,Low,Investigating,Yes,LOC0046
+INC01143,2025-10-17,DDoS,Medium,Moderate,Resolved,Yes,LOC0069
+INC01144,2023-05-25,Ransomware,High,Significant,Resolved,No,LOC0080
+INC01145,2025-02-06,DDoS,Critical,Low,Investigating,No,LOC0042
+INC01146,2024-01-14,Data Breach,Low,Moderate,Investigating,No,LOC0087
+INC01147,2023-10-04,Phishing,High,Moderate,Resolved,Yes,LOC0068
+INC01148,2024-10-20,Web Attack,Medium,Low,Investigating,No,LOC0005
+INC01149,2024-06-12,Insider Threat,Low,Moderate,Open,No,LOC0028
+INC01150,2025-03-22,Phishing,Medium,Low,Investigating,No,LOC0094
+INC01151,2024-02-10,Ransomware,Low,Significant,Investigating,No,LOC0001
+INC01152,2025-11-17,Phishing,Medium,Low,Contained,Yes,LOC0011
+INC01153,2023-04-10,Ransomware,Medium,Significant,Resolved,Yes,LOC0035
+INC01154,2026-01-05,Ransomware,Medium,Moderate,Investigating,No,LOC0100
+INC01155,2023-02-08,Phishing,High,Severe,Resolved,No,LOC0071
+INC01156,2025-07-28,Malware,Low,Low,Investigating,No,LOC0015
+INC01157,2024-03-18,DDoS,Low,Moderate,Investigating,No,LOC0040
+INC01158,2024-05-04,Data Breach,Low,Moderate,Investigating,No,LOC0094
+INC01159,2023-01-25,Ransomware,High,Moderate,Resolved,No,LOC0022
+INC01160,2025-06-15,Insider Threat,Medium,Moderate,Resolved,Yes,LOC0058
+INC01161,2023-07-31,Ransomware,High,Severe,Contained,Yes,LOC0047
+INC01162,2025-04-21,Web Attack,Medium,Severe,Open,No,LOC0077
+INC01163,2025-07-15,Phishing,Low,Moderate,Investigating,No,LOC0076
+INC01164,2025-12-15,Unauthorized Access,Critical,Low,Investigating,Yes,LOC0084
+INC01165,2025-06-23,Insider Threat,Low,Significant,Resolved,Yes,LOC0012
+INC01166,2024-01-21,Malware,Low,Significant,Open,Yes,LOC0046
+INC01167,2025-08-01,Web Attack,Low,Moderate,Resolved,Yes,LOC0070
+INC01168,2025-11-20,Ransomware,Critical,Significant,Resolved,Yes,LOC0042
+INC01169,2024-02-10,DDoS,High,Moderate,Contained,Yes,LOC0067
+INC01170,2023-06-08,Data Breach,High,Significant,Resolved,No,LOC0064
+INC01171,2026-02-10,Data Breach,Critical,Moderate,Open,No,LOC0038
+INC01172,2023-07-08,Malware,Low,Moderate,Resolved,No,LOC0011
+INC01173,2025-01-28,Insider Threat,Critical,Moderate,Open,No,LOC0098
+INC01174,2023-10-29,Unauthorized Access,Medium,Significant,Resolved,Yes,LOC0083
+INC01175,2023-06-10,Web Attack,High,Low,Contained,No,LOC0090
+INC01176,2025-09-18,DDoS,Medium,Significant,Open,No,LOC0030
+INC01177,2023-07-03,Unauthorized Access,Medium,Significant,Resolved,No,LOC0032
+INC01178,2025-05-05,DDoS,Critical,Significant,Open,Yes,LOC0033
+INC01179,2025-06-04,Web Attack,Low,Low,Investigating,No,LOC0004
+INC01180,2023-03-18,Insider Threat,Critical,Moderate,Resolved,No,LOC0017
+INC01181,2023-08-09,Web Attack,Medium,Moderate,Contained,No,LOC0031
+INC01182,2025-10-11,Unauthorized Access,High,Significant,Resolved,Yes,LOC0099
+INC01183,2024-10-09,Insider Threat,Critical,Severe,Resolved,No,LOC0021
+INC01184,2023-06-04,Ransomware,Low,Moderate,Resolved,No,LOC0051
+INC01185,2026-06-20,DDoS,Critical,Severe,Investigating,No,LOC0055
+INC01186,2023-12-05,Insider Threat,High,Low,Investigating,Yes,LOC0036
+INC01187,2023-01-06,Malware,High,Moderate,Resolved,No,LOC0092
+INC01188,2026-03-26,Data Breach,Low,Low,Open,No,LOC0010
+INC01189,2023-01-22,Malware,High,Significant,Contained,Yes,LOC0088
+INC01190,2024-12-07,Unauthorized Access,High,Low,Investigating,No,LOC0075
+INC01191,2026-06-22,DDoS,Medium,Moderate,Investigating,No,LOC0031
+INC01192,2025-01-07,DDoS,Low,Significant,Resolved,No,LOC0077
+INC01193,2025-01-16,DDoS,Medium,Significant,Resolved,Yes,LOC0043
+INC01194,2024-05-10,DDoS,Critical,Low,Resolved,No,LOC0098
+INC01195,2023-06-12,DDoS,Low,Low,Resolved,No,LOC0004
+INC01196,2025-01-01,DDoS,High,Moderate,Investigating,Yes,LOC0003
+INC01197,2026-02-19,Unauthorized Access,Critical,Moderate,Contained,Yes,LOC0055
+INC01198,2023-04-27,Insider Threat,Low,Moderate,Open,Yes,LOC0094
+INC01199,2026-01-29,Unauthorized Access,Low,Significant,Resolved,Yes,LOC0007
+INC01200,2024-06-14,Data Breach,High,Moderate,Investigating,No,LOC0078
+INC01201,2024-11-15,Insider Threat,Low,Significant,Resolved,No,LOC0094
+INC01202,2023-07-31,Web Attack,High,Moderate,Investigating,Yes,LOC0049
+INC01203,2025-03-05,Malware,High,Moderate,Resolved,No,LOC0087
+INC01204,2023-08-21,Data Breach,High,Low,Resolved,Yes,LOC0076
+INC01205,2023-12-15,Phishing,Medium,Moderate,Resolved,No,LOC0022
+INC01206,2023-03-06,Phishing,High,Low,Open,No,LOC0086
+INC01207,2024-07-25,Insider Threat,High,Moderate,Resolved,No,LOC0070
+INC01208,2025-01-29,Malware,Medium,Severe,Investigating,No,LOC0002
+INC01209,2023-06-18,Insider Threat,High,Severe,Investigating,No,LOC0057
+INC01210,2024-01-12,Insider Threat,Critical,Moderate,Investigating,Yes,LOC0066
+INC01211,2024-03-14,Web Attack,High,Significant,Investigating,Yes,LOC0081
+INC01212,2025-04-27,Data Breach,Medium,Significant,Resolved,No,LOC0078
+INC01213,2026-06-01,Insider Threat,Medium,Significant,Investigating,Yes,LOC0048
+INC01214,2025-12-03,Malware,Low,Moderate,Contained,No,LOC0030
+INC01215,2023-08-31,Web Attack,Medium,Moderate,Resolved,Yes,LOC0020
+INC01216,2023-01-24,Phishing,Low,Moderate,Resolved,No,LOC0009
+INC01217,2023-03-08,Ransomware,Critical,Low,Resolved,No,LOC0064
+INC01218,2025-01-30,Phishing,Medium,Moderate,Resolved,No,LOC0096
+INC01219,2023-07-19,DDoS,High,Severe,Investigating,No,LOC0009
+INC01220,2023-10-23,Data Breach,Low,Severe,Resolved,Yes,LOC0071
+INC01221,2025-12-18,Ransomware,Medium,Low,Open,Yes,LOC0059
+INC01222,2026-01-20,Insider Threat,Medium,Moderate,Investigating,No,LOC0018
+INC01223,2025-12-07,Unauthorized Access,Medium,Moderate,Open,No,LOC0022
+INC01224,2023-11-20,Data Breach,High,Moderate,Resolved,No,LOC0029
+INC01225,2025-03-02,Web Attack,Critical,Significant,Contained,No,LOC0069
+INC01226,2025-02-18,DDoS,Critical,Low,Resolved,No,LOC0030
+INC01227,2023-08-25,Ransomware,Low,Severe,Contained,Yes,LOC0083
+INC01228,2024-12-07,Web Attack,High,Severe,Contained,Yes,LOC0037
+INC01229,2024-11-01,Unauthorized Access,Low,Significant,Contained,No,LOC0011
+INC01230,2024-05-20,Unauthorized Access,Critical,Significant,Open,No,LOC0010
+INC01231,2025-08-17,Ransomware,Medium,Moderate,Contained,No,LOC0041
+INC01232,2025-05-15,Phishing,Medium,Moderate,Resolved,No,LOC0041
+INC01233,2024-11-11,Phishing,Low,Low,Resolved,No,LOC0074
+INC01234,2025-07-15,Phishing,Low,Significant,Open,No,LOC0048
+INC01235,2025-09-01,Phishing,Medium,Low,Resolved,Yes,LOC0017
+INC01236,2024-12-24,Data Breach,Critical,Significant,Investigating,No,LOC0022
+INC01237,2023-12-08,Malware,High,Moderate,Open,No,LOC0057
+INC01238,2025-07-05,Data Breach,Critical,Moderate,Investigating,No,LOC0034
+INC01239,2026-06-09,Web Attack,Low,Moderate,Contained,Yes,LOC0068
+INC01240,2023-07-11,Insider Threat,High,Severe,Investigating,No,LOC0093
+INC01241,2024-06-19,DDoS,Medium,Low,Resolved,No,LOC0036
+INC01242,2026-03-26,Malware,High,Low,Investigating,Yes,LOC0056
+INC01243,2024-10-19,Insider Threat,Medium,Low,Resolved,Yes,LOC0084
+INC01244,2026-04-18,Malware,Medium,Significant,Investigating,Yes,LOC0022
+INC01245,2023-01-16,Data Breach,High,Severe,Resolved,No,LOC0052
+INC01246,2023-02-14,Data Breach,Medium,Moderate,Resolved,No,LOC0031
+INC01247,2025-10-13,Phishing,Medium,Severe,Contained,Yes,LOC0063
+INC01248,2024-04-02,Data Breach,High,Moderate,Open,No,LOC0075
+INC01249,2024-10-26,Phishing,Low,Significant,Contained,No,LOC0015
+INC01250,2024-06-30,Phishing,Critical,Low,Resolved,No,LOC0019
+INC01251,2024-06-04,Insider Threat,Medium,Moderate,Resolved,No,LOC0003
+INC01252,2026-04-14,Web Attack,High,Significant,Investigating,No,LOC0002
+INC01253,2023-05-01,Ransomware,High,Significant,Resolved,No,LOC0006
+INC01254,2025-09-13,Web Attack,High,Moderate,Contained,Yes,LOC0071
+INC01255,2025-04-19,Web Attack,High,Significant,Investigating,No,LOC0091
+INC01256,2024-05-19,Insider Threat,Critical,Severe,Resolved,No,LOC0041
+INC01257,2023-07-24,Phishing,High,Moderate,Contained,No,LOC0089
+INC01258,2025-05-21,Ransomware,Medium,Significant,Contained,No,LOC0073
+INC01259,2023-07-10,Data Breach,Low,Significant,Resolved,No,LOC0081
+INC01260,2024-04-04,Web Attack,High,Moderate,Investigating,No,LOC0074
+INC01261,2026-05-12,Insider Threat,Low,Severe,Resolved,Yes,LOC0020
+INC01262,2023-12-05,DDoS,Medium,Moderate,Contained,No,LOC0053
+INC01263,2023-08-16,Phishing,Low,Significant,Open,Yes,LOC0053
+INC01264,2025-05-20,Web Attack,High,Low,Contained,Yes,LOC0065
+INC01265,2023-09-12,Ransomware,Low,Moderate,Resolved,Yes,LOC0080
+INC01266,2026-03-20,Ransomware,High,Significant,Contained,Yes,LOC0012
+INC01267,2026-01-01,Web Attack,High,Moderate,Open,No,LOC0068
+INC01268,2026-06-09,Unauthorized Access,Critical,Severe,Resolved,No,LOC0084
+INC01269,2026-03-11,Ransomware,Medium,Severe,Resolved,No,LOC0012
+INC01270,2023-11-08,Malware,High,Low,Resolved,Yes,LOC0042
+INC01271,2023-09-28,DDoS,High,Moderate,Resolved,No,LOC0090
+INC01272,2024-03-13,Web Attack,Medium,Moderate,Contained,No,LOC0003
+INC01273,2024-08-22,DDoS,High,Moderate,Resolved,No,LOC0017
+INC01274,2026-01-28,Data Breach,Medium,Moderate,Resolved,No,LOC0081
+INC01275,2025-07-25,Ransomware,Critical,Severe,Resolved,No,LOC0018
+INC01276,2025-04-02,Insider Threat,Low,Significant,Resolved,Yes,LOC0071
+INC01277,2026-01-26,Insider Threat,Critical,Low,Contained,No,LOC0091
+INC01278,2025-04-04,Unauthorized Access,High,Moderate,Open,No,LOC0050
+INC01279,2024-04-29,Insider Threat,Medium,Significant,Resolved,Yes,LOC0049
+INC01280,2024-06-11,Unauthorized Access,High,Moderate,Investigating,No,LOC0043
+INC01281,2024-10-22,DDoS,Low,Low,Open,No,LOC0038
+INC01282,2023-04-24,Data Breach,High,Moderate,Contained,No,LOC0039
+INC01283,2025-08-05,Insider Threat,High,Moderate,Resolved,No,LOC0056
+INC01284,2025-04-13,Insider Threat,Low,Moderate,Resolved,No,LOC0090
+INC01285,2025-07-22,Phishing,Low,Significant,Resolved,No,LOC0099
+INC01286,2024-11-12,Data Breach,High,Moderate,Resolved,No,LOC0087
+INC01287,2025-09-26,Malware,Medium,Significant,Resolved,No,LOC0012
+INC01288,2026-04-27,Unauthorized Access,Critical,Moderate,Resolved,No,LOC0031
+INC01289,2024-07-21,Unauthorized Access,High,Severe,Open,Yes,LOC0076
+INC01290,2023-05-14,Ransomware,High,Low,Resolved,No,LOC0055
+INC01291,2025-09-21,Web Attack,Medium,Low,Investigating,No,LOC0034
+INC01292,2026-02-28,Web Attack,High,Moderate,Open,No,LOC0032
+INC01293,2025-06-12,Malware,Critical,Moderate,Investigating,No,LOC0012
+INC01294,2026-01-10,Phishing,Low,Moderate,Resolved,No,LOC0034
+INC01295,2026-01-04,Phishing,Medium,Significant,Resolved,No,LOC0043
+INC01296,2025-10-16,Web Attack,Medium,Moderate,Resolved,Yes,LOC0042
+INC01297,2024-10-04,Unauthorized Access,Medium,Low,Resolved,Yes,LOC0055
+INC01298,2023-05-08,Data Breach,High,Moderate,Resolved,No,LOC0028
+INC01299,2023-01-05,Insider Threat,Medium,Significant,Investigating,No,LOC0021
+INC01300,2023-09-19,Insider Threat,High,Severe,Resolved,Yes,LOC0089
+INC01301,2024-07-04,Malware,Medium,Significant,Resolved,Yes,LOC0041
+INC01302,2025-08-07,Phishing,Low,Significant,Resolved,Yes,LOC0026
+INC01303,2024-08-05,DDoS,Medium,Significant,Investigating,No,LOC0064
+INC01304,2023-01-30,Ransomware,Critical,Significant,Open,No,LOC0055
+INC01305,2023-09-26,Data Breach,High,Moderate,Resolved,No,LOC0058
+INC01306,2026-06-04,Phishing,Medium,Significant,Investigating,Yes,LOC0023
+INC01307,2026-06-15,Ransomware,High,Significant,Contained,Yes,LOC0073
+INC01308,2024-04-26,Phishing,Low,Moderate,Contained,Yes,LOC0020
+INC01309,2025-10-24,Phishing,Medium,Significant,Investigating,No,LOC0084
+INC01310,2025-07-07,Phishing,Medium,Moderate,Open,Yes,LOC0043
+INC01311,2026-04-04,Phishing,Critical,Moderate,Resolved,No,LOC0041
+INC01312,2026-02-07,Unauthorized Access,High,Low,Resolved,No,LOC0039
+INC01313,2025-03-13,DDoS,High,Significant,Resolved,No,LOC0043
+INC01314,2024-05-18,DDoS,Low,Severe,Investigating,No,LOC0067
+INC01315,2025-03-11,DDoS,Medium,Low,Investigating,Yes,LOC0050
+INC01316,2024-03-20,Data Breach,High,Moderate,Contained,Yes,LOC0013
+INC01317,2025-02-16,Insider Threat,Medium,Low,Contained,No,LOC0057
+INC01318,2024-12-30,Unauthorized Access,Critical,Low,Open,No,LOC0027
+INC01319,2025-01-11,Data Breach,High,Severe,Resolved,No,LOC0011
+INC01320,2024-05-06,Data Breach,Medium,Moderate,Resolved,No,LOC0084
+INC01321,2024-06-06,Data Breach,High,Moderate,Contained,No,LOC0032
+INC01322,2023-01-14,Phishing,Critical,Moderate,Contained,Yes,LOC0060
+INC01323,2025-02-07,Web Attack,Medium,Severe,Contained,No,LOC0018
+INC01324,2025-01-05,Phishing,High,Moderate,Open,Yes,LOC0034
+INC01325,2026-04-09,DDoS,Critical,Significant,Investigating,Yes,LOC0039
+INC01326,2024-10-05,Data Breach,Medium,Moderate,Contained,Yes,LOC0014
+INC01327,2024-08-20,DDoS,Critical,Low,Contained,No,LOC0098
+INC01328,2023-03-28,Phishing,Low,Significant,Resolved,No,LOC0032
+INC01329,2023-09-09,Web Attack,High,Low,Resolved,Yes,LOC0059
+INC01330,2024-03-07,Malware,High,Significant,Investigating,Yes,LOC0057
+INC01331,2024-04-26,Phishing,High,Moderate,Open,No,LOC0043
+INC01332,2024-04-08,Web Attack,Medium,Significant,Open,No,LOC0059
+INC01333,2024-05-18,Data Breach,High,Significant,Investigating,Yes,LOC0057
+INC01334,2025-09-08,Malware,Low,Significant,Resolved,No,LOC0009
+INC01335,2023-06-17,Insider Threat,Medium,Low,Resolved,No,LOC0067
+INC01336,2024-02-29,Web Attack,Medium,Significant,Resolved,No,LOC0012
+INC01337,2023-07-27,Malware,High,Severe,Resolved,No,LOC0044
+INC01338,2024-01-29,DDoS,Medium,Moderate,Contained,Yes,LOC0037
+INC01339,2025-05-24,DDoS,Medium,Moderate,Investigating,Yes,LOC0045
+INC01340,2023-03-01,Phishing,Critical,Significant,Contained,No,LOC0008
+INC01341,2024-03-09,Phishing,Medium,Low,Investigating,Yes,LOC0071
+INC01342,2023-01-31,Phishing,Medium,Significant,Resolved,No,LOC0042
+INC01343,2026-05-04,Phishing,Medium,Significant,Contained,Yes,LOC0007
+INC01344,2025-07-17,DDoS,Medium,Low,Investigating,No,LOC0001
+INC01345,2023-11-08,DDoS,High,Significant,Investigating,No,LOC0055
+INC01346,2023-09-11,Phishing,Medium,Significant,Investigating,No,LOC0067
+INC01347,2023-05-07,Ransomware,Low,Moderate,Resolved,No,LOC0055
+INC01348,2024-08-26,Phishing,Critical,Severe,Open,No,LOC0073
+INC01349,2025-08-20,Insider Threat,High,Low,Open,Yes,LOC0076
+INC01350,2025-01-16,Phishing,High,Moderate,Investigating,No,LOC0088
+INC01351,2026-01-30,Web Attack,Critical,Severe,Resolved,Yes,LOC0099
+INC01352,2024-03-15,Unauthorized Access,Critical,Moderate,Contained,No,LOC0089
+INC01353,2023-12-22,Insider Threat,Medium,Significant,Resolved,No,LOC0080
+INC01354,2024-09-02,Data Breach,High,Low,Contained,Yes,LOC0044
+INC01355,2023-09-16,Ransomware,High,Moderate,Open,Yes,LOC0051
+INC01356,2026-05-30,Unauthorized Access,Medium,Low,Resolved,No,LOC0062
+INC01357,2023-08-26,Ransomware,Medium,Significant,Investigating,Yes,LOC0017
+INC01358,2024-09-03,Malware,Low,Significant,Open,No,LOC0068
+INC01359,2024-10-28,Ransomware,High,Severe,Resolved,Yes,LOC0059
+INC01360,2023-03-14,Ransomware,High,Severe,Open,No,LOC0053
+INC01361,2024-08-21,Phishing,High,Significant,Open,No,LOC0084
+INC01362,2024-08-03,Malware,Medium,Significant,Resolved,No,LOC0069
+INC01363,2023-11-28,Web Attack,Medium,Moderate,Contained,Yes,LOC0094
+INC01364,2023-06-13,Unauthorized Access,Medium,Severe,Investigating,No,LOC0098
+INC01365,2023-02-27,DDoS,High,Significant,Contained,No,LOC0083
+INC01366,2023-01-11,Web Attack,Critical,Severe,Resolved,No,LOC0030
+INC01367,2024-09-06,Phishing,Critical,Moderate,Open,No,LOC0019
+INC01368,2023-04-25,DDoS,Critical,Moderate,Open,No,LOC0030
+INC01369,2026-05-10,Insider Threat,Critical,Significant,Resolved,No,LOC0072
+INC01370,2023-11-09,Data Breach,Critical,Moderate,Resolved,No,LOC0087
+INC01371,2025-04-13,DDoS,Medium,Moderate,Resolved,No,LOC0089
+INC01372,2025-05-10,Ransomware,Low,Severe,Contained,No,LOC0069
+INC01373,2024-09-24,Malware,Low,Moderate,Open,Yes,LOC0069
+INC01374,2026-02-02,Malware,Medium,Moderate,Contained,No,LOC0096
+INC01375,2023-05-22,Phishing,Medium,Moderate,Resolved,No,LOC0069
+INC01376,2023-10-26,Insider Threat,Low,Moderate,Investigating,No,LOC0015
+INC01377,2023-11-19,Data Breach,Critical,Significant,Resolved,No,LOC0051
+INC01378,2023-06-22,DDoS,Medium,Severe,Investigating,No,LOC0036
+INC01379,2024-01-12,Insider Threat,Critical,Severe,Resolved,No,LOC0064
+INC01380,2024-02-04,Phishing,High,Significant,Resolved,No,LOC0064
+INC01381,2025-09-03,Phishing,High,Significant,Contained,No,LOC0030
+INC01382,2024-01-21,DDoS,High,Moderate,Resolved,No,LOC0030
+INC01383,2026-01-24,Web Attack,Medium,Severe,Resolved,No,LOC0009
+INC01384,2025-09-13,Unauthorized Access,High,Moderate,Investigating,Yes,LOC0030
+INC01385,2026-02-25,Insider Threat,Medium,Low,Contained,No,LOC0083
+INC01386,2023-05-15,Phishing,Critical,Severe,Resolved,No,LOC0066
+INC01387,2026-06-11,Insider Threat,Medium,Severe,Open,No,LOC0095
+INC01388,2025-02-23,Malware,Medium,Moderate,Contained,No,LOC0093
+INC01389,2026-06-08,Phishing,High,Significant,Investigating,No,LOC0086
+INC01390,2026-05-01,Unauthorized Access,High,Moderate,Resolved,No,LOC0018
+INC01391,2025-01-21,Malware,Medium,Moderate,Contained,No,LOC0034
+INC01392,2023-04-02,Insider Threat,High,Moderate,Resolved,No,LOC0006
+INC01393,2024-06-07,Insider Threat,Low,Low,Contained,Yes,LOC0010
+INC01394,2023-06-25,Unauthorized Access,High,Significant,Investigating,No,LOC0024
+INC01395,2026-04-17,Ransomware,Medium,Moderate,Resolved,No,LOC0029
+INC01396,2024-01-24,Malware,Medium,Moderate,Open,No,LOC0002
+INC01397,2023-10-11,Unauthorized Access,Low,Moderate,Open,Yes,LOC0085
+INC01398,2024-12-07,Unauthorized Access,Medium,Severe,Contained,No,LOC0053
+INC01399,2024-06-26,Insider Threat,Medium,Significant,Resolved,Yes,LOC0066
+INC01400,2023-05-04,Unauthorized Access,Medium,Severe,Contained,Yes,LOC0066
+INC01401,2025-11-08,Phishing,Medium,Low,Open,No,LOC0097
+INC01402,2025-12-16,Malware,Medium,Significant,Investigating,Yes,LOC0015
+INC01403,2025-08-06,Insider Threat,High,Severe,Investigating,No,LOC0035
+INC01404,2025-02-26,Phishing,Low,Moderate,Open,No,LOC0031
+INC01405,2024-05-29,Web Attack,High,Moderate,Contained,Yes,LOC0056
+INC01406,2024-11-23,Malware,Critical,Moderate,Open,No,LOC0053
+INC01407,2024-10-27,Data Breach,Medium,Moderate,Investigating,No,LOC0080
+INC01408,2023-07-31,Web Attack,Critical,Moderate,Resolved,No,LOC0057
+INC01409,2023-04-15,DDoS,Low,Moderate,Resolved,No,LOC0024
+INC01410,2023-11-20,Malware,Low,Moderate,Investigating,No,LOC0057
+INC01411,2024-08-03,Web Attack,High,Significant,Investigating,Yes,LOC0097
+INC01412,2023-07-24,Phishing,High,Low,Investigating,Yes,LOC0058
+INC01413,2023-05-17,Unauthorized Access,Critical,Moderate,Resolved,No,LOC0060
+INC01414,2025-12-23,Web Attack,Low,Significant,Investigating,No,LOC0018
+INC01415,2024-04-23,Data Breach,High,Low,Investigating,No,LOC0001
+INC01416,2025-01-16,Malware,Medium,Moderate,Contained,No,LOC0021
+INC01417,2024-10-31,Insider Threat,Medium,Moderate,Investigating,Yes,LOC0003
+INC01418,2025-07-27,Phishing,Low,Low,Investigating,No,LOC0046
+INC01419,2025-08-02,Data Breach,Critical,Moderate,Open,No,LOC0089
+INC01420,2024-01-14,Unauthorized Access,Low,Low,Resolved,No,LOC0045
+INC01421,2025-12-18,Ransomware,Critical,Moderate,Resolved,No,LOC0065
+INC01422,2024-04-19,DDoS,High,Severe,Resolved,Yes,LOC0086
+INC01423,2024-05-31,Malware,High,Severe,Resolved,Yes,LOC0077
+INC01424,2023-05-22,Web Attack,High,Moderate,Investigating,No,LOC0066
+INC01425,2025-08-28,Phishing,Critical,Moderate,Resolved,Yes,LOC0079
+INC01426,2023-02-08,Ransomware,Medium,Moderate,Resolved,No,LOC0029
+INC01427,2025-09-13,Unauthorized Access,Low,Severe,Resolved,No,LOC0043
+INC01428,2023-02-25,Data Breach,High,Significant,Resolved,Yes,LOC0040
+INC01429,2023-09-22,Unauthorized Access,Medium,Low,Contained,No,LOC0080
+INC01430,2025-02-09,Unauthorized Access,Low,Low,Investigating,Yes,LOC0041
+INC01431,2026-04-17,Unauthorized Access,Medium,Moderate,Contained,Yes,LOC0094
+INC01432,2024-06-05,Insider Threat,Medium,Severe,Open,No,LOC0019
+INC01433,2023-06-04,DDoS,Low,Severe,Contained,No,LOC0018
+INC01434,2023-10-25,Insider Threat,Low,Low,Open,No,LOC0072
+INC01435,2026-02-18,Insider Threat,Critical,Significant,Open,Yes,LOC0077
+INC01436,2025-07-17,Web Attack,Medium,Low,Resolved,No,LOC0068
+INC01437,2023-05-09,Web Attack,Critical,Significant,Resolved,No,LOC0031
+INC01438,2024-05-06,Insider Threat,Critical,Severe,Resolved,No,LOC0001
+INC01439,2023-12-04,Phishing,Low,Moderate,Contained,No,LOC0033
+INC01440,2023-08-16,Insider Threat,High,Low,Resolved,No,LOC0047
+INC01441,2025-02-27,Data Breach,High,Significant,Resolved,Yes,LOC0042
+INC01442,2023-08-18,Ransomware,High,Moderate,Resolved,No,LOC0093
+INC01443,2025-04-10,Data Breach,Low,Significant,Resolved,No,LOC0087
+INC01444,2024-06-12,Ransomware,Medium,Moderate,Contained,No,LOC0078
+INC01445,2023-03-20,Unauthorized Access,Low,Severe,Contained,No,LOC0003
+INC01446,2024-07-28,Insider Threat,High,Moderate,Resolved,No,LOC0013
+INC01447,2023-08-25,Phishing,Critical,Low,Resolved,No,LOC0044
+INC01448,2023-11-10,Ransomware,High,Moderate,Contained,Yes,LOC0063
+INC01449,2026-01-27,Insider Threat,High,Low,Contained,No,LOC0069
+INC01450,2025-06-25,DDoS,Critical,Moderate,Contained,No,LOC0030
+INC01451,2023-06-21,Web Attack,High,Significant,Contained,No,LOC0012
+INC01452,2025-12-23,Malware,Low,Low,Resolved,No,LOC0033
+INC01453,2025-01-03,Data Breach,Critical,Low,Resolved,Yes,LOC0080
+INC01454,2026-01-21,Insider Threat,Medium,Low,Contained,No,LOC0099
+INC01455,2025-08-12,Web Attack,Low,Low,Contained,No,LOC0095
+INC01456,2024-03-09,Phishing,Medium,Severe,Contained,No,LOC0060
+INC01457,2024-11-14,Web Attack,Critical,Severe,Open,No,LOC0010
+INC01458,2024-11-08,DDoS,Medium,Low,Contained,No,LOC0097
+INC01459,2025-07-08,Ransomware,Medium,Significant,Resolved,No,LOC0016
+INC01460,2023-11-14,Ransomware,Low,Significant,Resolved,No,LOC0027
+INC01461,2024-03-01,Data Breach,Low,Severe,Investigating,Yes,LOC0098
+INC01462,2023-11-09,Data Breach,Low,Moderate,Resolved,No,LOC0051
+INC01463,2024-01-14,DDoS,High,Moderate,Resolved,No,LOC0020
+INC01464,2023-07-25,Malware,Critical,Moderate,Investigating,No,LOC0051
+INC01465,2023-02-16,Web Attack,Low,Severe,Resolved,No,LOC0008
+INC01466,2026-04-15,Phishing,Medium,Significant,Resolved,No,LOC0032
+INC01467,2023-04-05,Malware,Medium,Moderate,Resolved,Yes,LOC0096
+INC01468,2026-02-07,Unauthorized Access,Low,Moderate,Investigating,No,LOC0030
+INC01469,2023-01-04,DDoS,High,Significant,Investigating,No,LOC0090
+INC01470,2025-09-19,Unauthorized Access,High,Severe,Contained,Yes,LOC0055
+INC01471,2024-02-24,Web Attack,High,Moderate,Open,Yes,LOC0066
+INC01472,2024-10-23,Malware,Medium,Significant,Contained,No,LOC0071
+INC01473,2023-12-27,Ransomware,High,Moderate,Resolved,Yes,LOC0056
+INC01474,2024-11-07,Unauthorized Access,Low,Moderate,Investigating,No,LOC0004
+INC01475,2024-05-17,Insider Threat,Low,Moderate,Contained,Yes,LOC0092
+INC01476,2024-11-16,Unauthorized Access,Critical,Significant,Resolved,No,LOC0048
+INC01477,2024-07-08,DDoS,High,Severe,Contained,Yes,LOC0066
+INC01478,2024-04-06,Unauthorized Access,Critical,Moderate,Contained,No,LOC0056
+INC01479,2023-06-18,Web Attack,Critical,Moderate,Resolved,No,LOC0066
+INC01480,2024-04-04,DDoS,High,Moderate,Investigating,No,LOC0036
+INC01481,2023-06-10,Web Attack,Critical,Low,Investigating,No,LOC0085
+INC01482,2023-08-22,Insider Threat,Medium,Moderate,Resolved,No,LOC0023
+INC01483,2026-05-01,Ransomware,Low,Low,Contained,Yes,LOC0066
+INC01484,2023-04-25,Phishing,Low,Moderate,Investigating,No,LOC0058
+INC01485,2024-09-07,Insider Threat,Low,Low,Open,No,LOC0051
+INC01486,2025-12-01,Phishing,Low,Moderate,Resolved,No,LOC0003
+INC01487,2026-05-02,Ransomware,Medium,Significant,Open,No,LOC0039
+INC01488,2023-07-07,Phishing,High,Moderate,Resolved,No,LOC0005
+INC01489,2023-07-28,Unauthorized Access,High,Significant,Contained,No,LOC0051
+INC01490,2024-04-20,Ransomware,High,Severe,Resolved,Yes,LOC0069
+INC01491,2024-12-08,Data Breach,Low,Significant,Investigating,Yes,LOC0053
+INC01492,2026-05-10,Web Attack,High,Moderate,Investigating,Yes,LOC0076
+INC01493,2023-09-23,Insider Threat,Medium,Moderate,Contained,No,LOC0037
+INC01494,2023-07-29,Web Attack,Low,Significant,Resolved,No,LOC0031
+INC01495,2023-11-20,Malware,Medium,Moderate,Investigating,No,LOC0045
+INC01496,2026-01-21,DDoS,Medium,Low,Contained,No,LOC0023
+INC01497,2023-02-08,Phishing,Medium,Moderate,Contained,Yes,LOC0081
+INC01498,2024-04-30,Web Attack,High,Significant,Investigating,No,LOC0081
+INC01499,2023-06-01,Data Breach,High,Moderate,Resolved,Yes,LOC0042
+INC01500,2023-07-20,Ransomware,High,Significant,Investigating,No,LOC0080
